@@ -1,0 +1,1400 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 35%
+	Available Physical Memory: 5240m/8081m
+	Available Page File: 5998m/9105m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 266k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Thu Aug 23 20:47:53 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:04]: Steam AppBuildID: 3001093
+[00:00:04]: ....Done
+[00:00:04]: Fixing DPI
+[00:00:04]: ...Done
+[00:00:04]: THREAD - started 'GAClient' (2768)
+[00:00:04]: CurlRequestManager::ClientThread::Main()
+[00:00:04]: Mounting file system databundles/klump.zip successful.
+[00:00:04]: Mounting file system databundles/shaders.zip successful.
+[00:00:04]: Mounting file system databundles/fonts.zip successful.
+[00:00:04]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:04]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:04]: Mounting file system databundles/images.zip successful.
+[00:00:04]: Mounting file system databundles/scripts.zip successful.
+[00:00:04]: ProfileIndex:3.91
+[00:00:04]: [Connect] PendingConnection::Reset(true)
+[00:00:04]: Network tick rate: U=15(2), D=0
+[00:00:04]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:04]: WindowsFirewall - Application already authorized
+[00:00:04]: THREAD - started 'StreamInput' (3812)
+[00:00:04]: loaded ping_cache
+[00:00:04]: Offline user ID: OU_76561198322581862
+[00:00:04]: SteamID: 76561198322581862
+[00:00:04]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:04]: cGame::InitializeOnMainThread
+[00:00:04]: WindowManager::Initialize
+[00:00:04]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:05]: CreateEGLContext: 12 configs found
+[00:00:05]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:05]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:05]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:05]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:05]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:05]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:05]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:05]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:05]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:05]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:05]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:05]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:05]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:05]: GLInfo
+[00:00:05]: ~~~~~~
+[00:00:05]: GL_VENDOR: Google Inc.
+[00:00:05]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960M)
+[00:00:05]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:05]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:05]: OpenGL extensions (19, 19):
+[00:00:05]: GL_ANGLE_depth_texture
+[00:00:05]: GL_ANGLE_framebuffer_blit
+[00:00:05]: GL_ANGLE_framebuffer_multisample
+[00:00:05]: GL_ANGLE_instanced_arrays
+[00:00:05]: GL_ANGLE_pack_reverse_row_order
+[00:00:05]: GL_ANGLE_texture_compression_dxt3
+[00:00:05]: GL_ANGLE_texture_compression_dxt5
+[00:00:05]: GL_ANGLE_texture_usage
+[00:00:05]: GL_ANGLE_translated_shader_source
+[00:00:05]: GL_EXT_read_format_bgra
+[00:00:05]: GL_EXT_robustness
+[00:00:05]: GL_EXT_texture_compression_dxt1
+[00:00:05]: GL_EXT_texture_format_BGRA8888
+[00:00:05]: GL_EXT_texture_storage
+[00:00:05]: GL_OES_get_program_binary
+[00:00:05]: GL_OES_packed_depth_stencil
+[00:00:05]: GL_OES_rgb8_rgba8
+[00:00:05]: GL_OES_standard_derivatives
+[00:00:05]: GL_OES_texture_npot
+[00:00:05]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:05]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:05]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:05]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:05]: GL_MAX_VARYING_VECTORS = 10
+[00:00:05]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:05]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:05]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:05]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:05]: 4 compressed texture formats
+[00:00:05]: texture format 0x83f0
+[00:00:05]: texture format 0x83f1
+[00:00:05]: texture format 0x83f2
+[00:00:05]: texture format 0x83f3
+[00:00:05]: THREAD - started 'WindowsInputManager' (1864)
+[00:00:07]: Renderer initialize: Okay
+[00:00:07]: AnimManager initialize: Okay
+[00:00:07]: Buffers initialize: Okay
+[00:00:07]: Ping measurement completed
+[00:00:07]: Ping location: hkg=34+3,sgp=63+6,man=73+7/70+3,tyo=207+20/81+3,maa=240+24/96+6,bom=257+25/114+6,dxb=287+28/140+6,syd=339+33/154+53,tuk=215+21/163+3,iad=346+34/225+3,fra=258+25/232+21,gru=377+37/362+3
+[00:00:07]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:07]: GameSpecific initialize: Okay
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:08]:   taskgrouplist:	default	Together	
+[00:00:08]:   taskgrouplist:	classic	Classic	
+[00:00:08]:   taskgrouplist:	cave_default	Underground	
+[00:00:08]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:08]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:08]: running main.lua
+	
+[00:00:08]: loaded modindex	
+[00:00:08]: ModIndex: Beginning normal load sequence.
+	
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:10]: PlayerDeaths loaded morgue	6127	
+[00:00:10]: PlayerHistory loaded player_history (v2) len:212	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:11]: 	Load FE	
+[00:00:13]: 	Load FE: done	
+[00:00:13]: THREAD - started 'FilesExistAsyncThread' (11300)
+[00:00:13]: FilesExistAsyncThread started (16739 files)...
+[00:00:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:13]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:13]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: Reset() returning
+[00:00:15]: ... FilesExistAsyncThread complete
+[00:00:30]: [Steam] Auth Session Ticket requested...
+[00:00:30]: [Steam] Got Auth Session Ticket
+[00:00:36]: [200] Account Communication Success (3)
+[00:00:36]: Logging in as KU_J9MSQIOb
+[00:00:39]: There is no active event to get the status of.
+[00:00:39]: loaded inventory_cache_prod
+[00:00:41]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:00:41]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:00:41]: SimLuaProxy::QueryServer()
+[00:00:44]: Getting top mod details...
+[00:00:44]: Frontend-Unloading mod 'all'.	
+[00:00:45]: GOT top mod details...50
+[00:00:49]: GetGameModeMaxPlayers	endless	nil	
+[00:00:49]: Network tick rate: U=15(2), D=0
+[00:00:49]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:49]: About to start a server with the following settings:
+[00:00:49]:   Dedicated: false
+[00:00:49]:   Online: true
+[00:00:49]:   Passworded: false
+[00:00:49]:   ServerPort: 10999
+[00:00:49]:   SteamAuthPort: 8766
+[00:00:49]:   SteamMasterServerPort: 27016
+[00:00:49]:   ClanID: false
+[00:00:49]:   ClanOnly: false
+[00:00:49]:   ClanAdmin: false
+[00:00:49]:   LanOnly: false
+[00:00:49]:   FriendsOnly: true
+[00:00:49]:   EnableAutosaver: true
+[00:00:49]:   EncodeUserPath: true
+[00:00:49]:   PVP: true
+[00:00:49]:   MaxPlayers: 6
+[00:00:49]:   GameMode: endless
+[00:00:49]:   OverridenDNS: 
+[00:00:49]:   PauseWhenEmpty: true
+[00:00:49]:   IdleTimeout: 1800s
+[00:00:49]:   VoteEnabled: false
+[00:00:49]:   InternetBroadcasting: true
+[00:00:49]:   Intent: cooperative
+[00:00:49]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:49]: Online Server Started on port: 10999
+[00:00:49]: Collecting garbage...
+[00:00:49]: lua_gc took 0.02 seconds
+[00:00:49]: ~ShardLuaProxy()
+[00:00:49]: ~cEventLeaderboardProxy()
+[00:00:49]: ~ItemServerLuaProxy()
+[00:00:49]: ~InventoryLuaProxy()
+[00:00:49]: ~NetworkLuaProxy()
+[00:00:49]: ~SimLuaProxy()
+[00:00:49]: Cancelling LuaQueryCallback handle [6]
+[00:00:49]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:49]: lua_close took 0.04 seconds
+[00:00:49]: ReleaseAll
+[00:00:49]: ReleaseAll Finished
+[00:00:49]: cGame::StartPlaying
+[00:00:49]: LOADING LUA
+[00:00:49]: DoLuaFile scripts/main.lua
+[00:00:49]: DoLuaFile loading buffer scripts/main.lua
+[00:00:49]:   taskgrouplist:	default	Together	
+[00:00:49]:   taskgrouplist:	classic	Classic	
+[00:00:49]:   taskgrouplist:	cave_default	Underground	
+[00:00:49]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:49]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:49]: running main.lua
+	
+[00:00:49]: loaded modindex	
+[00:00:49]: ModIndex: Beginning normal load sequence.
+	
+[00:00:49]: LOADING LUA SUCCESS
+[00:00:49]: PlayerDeaths loaded morgue	6127	
+[00:00:49]: PlayerHistory loaded player_history (v2) len:212	
+[00:00:49]: bloom_enabled	false	
+[00:00:49]: loaded saveindex	
+[00:00:49]: OnFilesLoaded()	
+[00:00:49]: OnUpdatePurchaseStateComplete	
+[00:00:49]: Loading world: session/6EED019C36C035A2/0000000169	
+[00:00:49]: Save file is at version 4.77	
+[00:00:49]: Klump load on boot started.	
+[00:00:49]: Klump files loaded: 	0	
+[00:00:49]: 	Unload FE	
+[00:00:49]: 	Unload FE done	
+[00:00:51]: 	LOAD BE	
+[00:01:05]: 	LOAD BE: done	
+[00:01:05]: Begin Session: 6EED019C36C035A2
+[00:01:05]: saving to server_temp/server_save	
+[00:01:05]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:05]: Loading 12 new character(s)	
+[00:01:07]: Total 12 character(s) loaded	
+[00:01:08]: Loading Nav Grid	
+[00:01:08]: setting 	summerlength	15	
+[00:01:08]: setting 	isnightmaredawn	false	
+[00:01:08]: setting 	elapseddaysinseason	8	
+[00:01:08]: setting 	isfullmoon	false	
+[00:01:08]: setting 	moisture	731.45928955078	
+[00:01:08]: setting 	springlength	20	
+[00:01:08]: setting 	isnightmarewild	false	
+[00:01:08]: setting 	moonphase	threequarter	
+[00:01:08]: setting 	precipitationrate	0.15513276938468	
+[00:01:08]: setting 	iswet	true	
+[00:01:08]: setting 	isnewmoon	false	
+[00:01:08]: setting 	iswinter	false	
+[00:01:08]: setting 	israining	true	
+[00:01:08]: setting 	isnightmarewarn	false	
+[00:01:08]: setting 	precipitation	rain	
+[00:01:08]: setting 	cavephase	night	
+[00:01:08]: setting 	moistureceil	4154.6142578125	
+[00:01:08]: setting 	isday	false	
+[00:01:08]: setting 	iscaveday	false	
+[00:01:08]: setting 	season	spring	
+[00:01:08]: setting 	timeinphase	0.1961612701416	
+[00:01:08]: setting 	temperature	21.496595688774	
+[00:01:08]: setting 	isnightmarecalm	false	
+[00:01:08]: setting 	isnight	true	
+[00:01:08]: setting 	isdusk	false	
+[00:01:08]: setting 	iscavedusk	false	
+[00:01:08]: setting 	isautumn	false	
+[00:01:08]: setting 	issnowing	false	
+[00:01:08]: setting 	iswaxingmoon	false	
+[00:01:08]: setting 	pop	1	
+[00:01:08]: setting 	snowlevel	0	
+[00:01:08]: setting 	issnowcovered	false	
+[00:01:08]: setting 	autumnlength	20	
+[00:01:08]: setting 	phase	night	
+[00:01:08]: setting 	nightmaretime	0	
+[00:01:08]: setting 	winterlength	5	
+[00:01:08]: setting 	isspring	true	
+[00:01:08]: setting 	nightmarephase	none	
+[00:01:08]: setting 	remainingdaysinseason	12	
+[00:01:08]: setting 	cycles	153	
+[00:01:08]: setting 	iscavenight	true	
+[00:01:08]: setting 	nightmaretimeinphase	0	
+[00:01:08]: setting 	wetness	100	
+[00:01:08]: setting 	time	0.8995201587677	
+[00:01:08]: setting 	issummer	false	
+[00:01:08]: OVERRIDE: setting	day	to	longday	
+[00:01:12]: Reconstructing topology	
+[00:01:12]: 	...Sorting points	
+[00:01:12]: 	...Sorting edges	
+[00:01:12]: 	...Connecting nodes	
+[00:01:12]: 	...Validating connections	
+[00:01:12]: 	...Housekeeping	
+[00:01:12]: 	...Done!	
+[00:01:12]: 1 uploads added to server. From server_temp
+[00:01:12]: Telling Client our new session identifier: 6EED019C36C035A2
+[00:01:12]: ModIndex: Load sequence finished successfully.	
+[00:01:12]: Reset() returning
+[00:01:13]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:01:13]: Attempting to send resume request
+[00:01:13]: Resuming user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000169
+[00:01:13]: Spawning player at: [Load] (170.34, 0.00, 150.98)	
+[00:01:13]: ReceiveResumeNotification
+[00:01:13]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:01:13]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:01:13]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:01:13]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:01:13]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:01:13]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:01:13]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:01:13]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:01:13]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:01:13]: Deserializing tile data (425 x 425)
+[00:03:31]: [P2P] Session request for '76561198404125141'
+[00:03:35]: [P2P] Create session: 91.24.205.38|1 '76561198404125141'
+[00:03:35]: [P2P] Received from 91.24.205.38|1 '76561198404125141'
+[00:03:35]: [P2P] Sent to 91.24.205.38|1 '76561198404125141'
+[00:03:36]: New incoming connection 91.24.205.38|1 <4424016789946584604>
+[00:03:36]: Client connected from 91.24.205.38|1 <4424016789946584604>
+[00:03:36]: ValidateGameSessionToken pgs-sing^KU_UrT0UCGI^DontStarveTogether^vaNYJASoFvX/UdWLVtEjCey7FSJX4i1hRDLApmgOqPU= for <4424016789946584604>
+[00:03:38]: Client authenticated: (KU_UrT0UCGI) dwcyr
+[00:03:46]: There is no active event to validate against.
+[00:03:52]: Resuming user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000169
+[00:03:52]: Spawning player at: [Load] (218.00, 0.00, 190.00)	
+[00:05:54]: giving 	118694 - hammer	
+[00:10:03]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000170
+[00:10:03]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000170
+[00:10:03]: Serializing world: session/6EED019C36C035A2/0000000170
+[00:10:08]: giving 	119589 - fishsticks	
+[00:10:08]: giving 	119597 - fishsticks	
+[00:10:08]: giving 	119599 - fishsticks	
+[00:10:08]: giving 	119601 - fishsticks	
+[00:10:08]: giving 	119603 - fishsticks	
+[00:14:37]: giving 	121764 - umbrella	
+[00:18:03]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000171
+[00:18:03]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000171
+[00:18:04]: Serializing world: session/6EED019C36C035A2/0000000171
+[00:18:42]: giving 	134641 - umbrella	
+[00:26:04]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000172
+[00:26:04]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000172
+[00:26:04]: Serializing world: session/6EED019C36C035A2/0000000172
+[00:28:13]: giving 	152487 - fishsticks	
+[00:28:13]: giving 	152495 - fishsticks	
+[00:28:13]: giving 	152497 - fishsticks	
+[00:30:07]: [200] Account Communication Success (6)
+[00:30:07]: Received (KU_J9MSQIOb) from TokenPurpose
+[00:33:11]: giving 	153609 - silk	
+[00:33:11]: giving 	153611 - silk	
+[00:33:11]: giving 	153613 - silk	
+[00:33:11]: giving 	153615 - silk	
+[00:33:11]: giving 	153617 - silk	
+[00:33:11]: giving 	153619 - silk	
+[00:33:11]: giving 	153621 - silk	
+[00:33:11]: giving 	153623 - silk	
+[00:33:11]: giving 	153625 - silk	
+[00:33:11]: giving 	153627 - silk	
+[00:34:05]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000173
+[00:34:05]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000173
+[00:34:05]: Serializing world: session/6EED019C36C035A2/0000000173
+[00:36:14]: giving 	154920 - coldfirepit	
+[00:36:14]: Warning: Can't give item because it's not an inventory item.	
+[00:37:19]: giving 	155119 - coldfirepit	
+[00:37:19]: Warning: Can't give item because it's not an inventory item.	
+[00:40:36]: giving 	159148 - researchlab	
+[00:40:36]: Warning: Can't give item because it's not an inventory item.	
+[00:42:05]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000174
+[00:42:05]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000174
+[00:42:05]: Serializing world: session/6EED019C36C035A2/0000000174
+[00:46:22]: giving 	183435 - fishsticks	
+[00:46:22]: giving 	183443 - fishsticks	
+[00:46:22]: giving 	183445 - fishsticks	
+[00:47:44]: giving 	186921 - fishsticks	
+[00:47:44]: giving 	186929 - fishsticks	
+[00:47:44]: giving 	186931 - fishsticks	
+[00:47:44]: giving 	186933 - fishsticks	
+[00:47:44]: giving 	186935 - fishsticks	
+[00:47:48]: Could not find anim [death] in bank [ghost]
+[00:47:48]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000175
+[00:48:05]: Could not find anim [idle_loop] in bank [ghost]
+[00:48:08]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000175
+[00:50:05]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000175
+[00:50:05]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000175
+[00:50:06]: Serializing world: session/6EED019C36C035A2/0000000175
+[00:54:49]: giving 	190074 - fishsticks	
+[00:54:49]: giving 	190082 - fishsticks	
+[00:54:49]: giving 	190084 - fishsticks	
+[00:54:49]: giving 	190086 - fishsticks	
+[00:54:49]: giving 	190088 - fishsticks	
+[00:55:15]: giving 	190241 - fishsticks	
+[00:55:15]: giving 	190249 - fishsticks	
+[00:55:15]: giving 	190251 - fishsticks	
+[00:55:15]: giving 	190253 - fishsticks	
+[00:55:15]: giving 	190255 - fishsticks	
+[00:56:04]: Could not find anim [death] in bank [ghost]
+[00:56:04]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000176
+[00:56:20]: Could not find anim [idle_loop] in bank [ghost]
+[00:56:23]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000176
+[00:58:05]: Could not find anim [death] in bank [ghost]
+[00:58:05]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000176
+[00:58:05]: SAVING Morgue	40	
+[00:58:06]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000176
+[00:58:06]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000176
+[00:58:06]: Serializing world: session/6EED019C36C035A2/0000000176
+[00:58:27]: Could not find anim [idle_loop] in bank [ghost]
+[00:58:30]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000177
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_J9MSQIOb) from TokenPurpose
+[01:02:12]: giving 	192109 - treasurechest	
+[01:02:12]: Warning: Can't give item because it's not an inventory item.	
+[01:02:28]: giving 	192158 - treasurechest	
+[01:02:28]: Warning: Can't give item because it's not an inventory item.	
+[01:02:38]: giving 	192208 - treasurechest	
+[01:02:38]: Warning: Can't give item because it's not an inventory item.	
+[01:03:13]: giving 	192329 - treasurechest	
+[01:03:13]: Warning: Can't give item because it's not an inventory item.	
+[01:03:26]: giving 	192431 - treasurechest	
+[01:03:26]: Warning: Can't give item because it's not an inventory item.	
+[01:06:07]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000177
+[01:06:07]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000177
+[01:06:07]: Serializing world: session/6EED019C36C035A2/0000000177
+[01:06:12]: giving 	196270 - lightbulb	
+[01:06:12]: giving 	196278 - lightbulb	
+[01:06:12]: giving 	196280 - lightbulb	
+[01:06:12]: giving 	196282 - lightbulb	
+[01:06:12]: giving 	196284 - lightbulb	
+[01:06:12]: giving 	196286 - lightbulb	
+[01:06:12]: giving 	196288 - lightbulb	
+[01:06:12]: giving 	196290 - lightbulb	
+[01:06:12]: giving 	196292 - lightbulb	
+[01:06:12]: giving 	196294 - lightbulb	
+[01:09:48]: giving 	209030 - fishsticks	
+[01:09:48]: giving 	209038 - fishsticks	
+[01:09:48]: giving 	209040 - fishsticks	
+[01:09:48]: giving 	209042 - fishsticks	
+[01:09:48]: giving 	209044 - fishsticks	
+[01:14:07]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000178
+[01:14:07]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000178
+[01:14:07]: Serializing world: session/6EED019C36C035A2/0000000178
+[01:22:07]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000179
+[01:22:08]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000179
+[01:22:08]: Serializing world: session/6EED019C36C035A2/0000000179
+[01:27:18]: giving 	226169 - fishsticks	
+[01:27:18]: giving 	226177 - fishsticks	
+[01:27:18]: giving 	226179 - fishsticks	
+[01:27:18]: giving 	226181 - fishsticks	
+[01:27:18]: giving 	226183 - fishsticks	
+[01:30:07]: [200] Account Communication Success (6)
+[01:30:07]: Received (KU_J9MSQIOb) from TokenPurpose
+[01:30:08]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000180
+[01:30:08]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000180
+[01:30:09]: Serializing world: session/6EED019C36C035A2/0000000180
+[01:33:30]: giving 	227083 - fishsticks	
+[01:33:30]: giving 	227091 - fishsticks	
+[01:33:30]: giving 	227093 - fishsticks	
+[01:33:30]: giving 	227095 - fishsticks	
+[01:33:30]: giving 	227097 - fishsticks	
+[01:38:09]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000181
+[01:38:09]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000181
+[01:38:09]: Serializing world: session/6EED019C36C035A2/0000000181
+[01:41:42]: giving 	229483 - icehat	
+[01:41:42]: giving 	229490 - icehat	
+[01:41:42]: giving 	229497 - icehat	
+[01:41:42]: giving 	229499 - icehat	
+[01:41:42]: giving 	229501 - icehat	
+[01:46:09]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000182
+[01:46:09]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000182
+[01:46:10]: Serializing world: session/6EED019C36C035A2/0000000182
+[01:53:39]: Could not find anim [death] in bank [ghost]
+[01:53:39]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000183
+[01:53:39]: SAVING Morgue	39	
+[01:54:10]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000183
+[01:54:10]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000183
+[01:54:11]: Serializing world: session/6EED019C36C035A2/0000000183
+[01:55:05]: Could not find anim [idle_loop] in bank [ghost]
+[01:55:08]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[01:56:26]: giving 	232306 - lifeinjector	
+[01:56:26]: giving 	232312 - lifeinjector	
+[01:56:26]: giving 	232314 - lifeinjector	
+[01:58:49]: giving 	233537 - siestahut	
+[01:58:49]: Warning: Can't give item because it's not an inventory item.	
+[01:58:49]: giving 	233538 - siestahut	
+[01:58:49]: Warning: Can't give item because it's not an inventory item.	
+[01:58:49]: giving 	233539 - siestahut	
+[01:58:49]: Warning: Can't give item because it's not an inventory item.	
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_J9MSQIOb) from TokenPurpose
+[02:00:37]: KU_J9MSQIOb	running command:	rollback	false	
+[02:00:38]: Building a command without enough arguments!	
+[02:00:38]: KU_J9MSQIOb	running text command:	rollback	true	
+[02:00:43]: Received world rollback request: count=1	
+[02:00:43]: Truncating to snapshot #183...
+[02:00:43]:  - session/6EED019C36C035A2/0000000164
+[02:00:43]:  - session/6EED019C36C035A2/0000000165
+[02:00:43]:  - session/6EED019C36C035A2/0000000166
+[02:00:43]:  - session/6EED019C36C035A2/0000000167
+[02:00:43]:  - session/6EED019C36C035A2/0000000168
+[02:00:43]:  - session/6EED019C36C035A2/0000000169
+[02:00:43]:  - session/6EED019C36C035A2/0000000170
+[02:00:43]:  - session/6EED019C36C035A2/0000000171
+[02:00:43]:  - session/6EED019C36C035A2/0000000172
+[02:00:43]:  - session/6EED019C36C035A2/0000000173
+[02:00:43]:  - session/6EED019C36C035A2/0000000174
+[02:00:43]:  - session/6EED019C36C035A2/0000000175
+[02:00:43]:  - session/6EED019C36C035A2/0000000176
+[02:00:43]:  - session/6EED019C36C035A2/0000000177
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000177
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000176
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000175
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000174
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000173
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000172
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000171
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000170
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000169
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000168
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000167
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000166
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000165
+[02:00:43]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000164
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000177
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000176
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000175
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000174
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000173
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000172
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000171
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000170
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000169
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000168
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000167
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000166
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000165
+[02:00:43]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000164
+[02:00:43]:    43 file(s) removed
+[02:00:44]: Collecting garbage...
+[02:00:44]: lua_gc took 0.10 seconds
+[02:00:44]: ~ShardLuaProxy()
+[02:00:44]: ~cEventLeaderboardProxy()
+[02:00:44]: ~ItemServerLuaProxy()
+[02:00:44]: ~InventoryLuaProxy()
+[02:00:44]: ~NetworkLuaProxy()
+[02:00:44]: ~SimLuaProxy()
+[02:00:44]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:00:44]: lua_close took 0.29 seconds
+[02:00:44]: ReleaseAll
+[02:00:44]: ReleaseAll Finished
+[02:00:44]: cGame::StartPlaying
+[02:00:44]: LOADING LUA
+[02:00:44]: DoLuaFile scripts/main.lua
+[02:00:44]: DoLuaFile loading buffer scripts/main.lua
+[02:00:44]:   taskgrouplist:	default	Together	
+[02:00:44]:   taskgrouplist:	classic	Classic	
+[02:00:44]:   taskgrouplist:	cave_default	Underground	
+[02:00:44]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:00:44]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:00:44]: running main.lua
+	
+[02:00:44]: loaded modindex	
+[02:00:44]: ModIndex: Beginning normal load sequence.
+	
+[02:00:44]: LOADING LUA SUCCESS
+[02:00:44]: PlayerDeaths loaded morgue	6140	
+[02:00:44]: PlayerHistory loaded player_history (v2) len:212	
+[02:00:44]: bloom_enabled	false	
+[02:00:44]: loaded saveindex	
+[02:00:44]: OnFilesLoaded()	
+[02:00:44]: OnUpdatePurchaseStateComplete	
+[02:00:44]: Loading world: session/6EED019C36C035A2/0000000183	
+[02:00:44]: Save file is at version 4.77	
+[02:00:44]: Klump load on boot started.	
+[02:00:44]: Klump files loaded: 	0	
+[02:00:45]: 	Unload characters	
+[02:00:45]: 	BE assets already loaded	
+[02:00:46]: Begin Session: 6EED019C36C035A2
+[02:00:46]: Stomping previously assigned session identifier, two loads issued.
+[02:00:46]: saving to server_temp/server_save	
+[02:00:46]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:00:46]: Loading 12 new character(s)	
+[02:00:47]: Total 12 character(s) loaded	
+[02:00:47]: Loading Nav Grid	
+[02:00:47]: setting 	summerlength	15	
+[02:00:47]: setting 	isnightmaredawn	false	
+[02:00:47]: setting 	elapseddaysinseason	3	
+[02:00:47]: setting 	isfullmoon	false	
+[02:00:47]: setting 	moisture	4356.8393554688	
+[02:00:47]: setting 	springlength	20	
+[02:00:47]: setting 	isnightmarewild	false	
+[02:00:47]: setting 	moonphase	threequarter	
+[02:00:47]: setting 	precipitationrate	0	
+[02:00:47]: setting 	iswet	false	
+[02:00:47]: setting 	isnewmoon	false	
+[02:00:47]: setting 	iswinter	false	
+[02:00:47]: setting 	israining	false	
+[02:00:47]: setting 	isnightmarewarn	false	
+[02:00:47]: setting 	precipitation	none	
+[02:00:47]: setting 	cavephase	day	
+[02:00:47]: setting 	moistureceil	4521.6860351563	
+[02:00:47]: setting 	isday	true	
+[02:00:47]: setting 	iscaveday	true	
+[02:00:47]: setting 	season	summer	
+[02:00:47]: setting 	timeinphase	0.0023305983770461	
+[02:00:47]: setting 	temperature	76.693659767426	
+[02:00:47]: setting 	isnightmarecalm	false	
+[02:00:47]: setting 	isnight	false	
+[02:00:47]: setting 	isdusk	false	
+[02:00:47]: setting 	iscavedusk	false	
+[02:00:47]: setting 	isautumn	false	
+[02:00:47]: setting 	issnowing	false	
+[02:00:47]: setting 	iswaxingmoon	true	
+[02:00:47]: setting 	pop	0.95906984325694	
+[02:00:47]: setting 	snowlevel	0	
+[02:00:47]: setting 	issnowcovered	false	
+[02:00:47]: setting 	autumnlength	20	
+[02:00:47]: setting 	phase	day	
+[02:00:47]: setting 	nightmaretime	0	
+[02:00:47]: setting 	winterlength	5	
+[02:00:47]: setting 	isspring	false	
+[02:00:47]: setting 	nightmarephase	none	
+[02:00:47]: setting 	remainingdaysinseason	12	
+[02:00:47]: setting 	cycles	168	
+[02:00:47]: setting 	iscavenight	false	
+[02:00:47]: setting 	nightmaretimeinphase	0	
+[02:00:47]: setting 	wetness	0	
+[02:00:47]: setting 	time	0.0020392735799153	
+[02:00:47]: setting 	issummer	true	
+[02:00:47]: OVERRIDE: setting	day	to	longday	
+[02:00:52]: Reconstructing topology	
+[02:00:52]: 	...Sorting points	
+[02:00:52]: 	...Sorting edges	
+[02:00:52]: 	...Connecting nodes	
+[02:00:52]: 	...Validating connections	
+[02:00:52]: 	...Housekeeping	
+[02:00:52]: 	...Done!	
+[02:00:52]: Restoring user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000183	
+[02:00:52]: Could not find anim [idle_loop] in bank [ghost]
+[02:00:52]: Restoring user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000183	
+[02:00:52]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000184
+[02:00:52]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[02:00:52]: 1 uploads added to server. From server_temp
+[02:00:52]: Telling Client our new session identifier: 6EED019C36C035A2
+[02:00:52]: ModIndex: Load sequence finished successfully.	
+[02:00:52]: Reset() returning
+[02:00:53]: Validating portal[10] <-> <nil>[10] (inactive)	
+[02:00:53]: Validating portal[2] <-> <nil>[2] (inactive)	
+[02:00:53]: Validating portal[4] <-> <nil>[4] (inactive)	
+[02:00:53]: Validating portal[1] <-> <nil>[1] (inactive)	
+[02:00:53]: Validating portal[3] <-> <nil>[3] (inactive)	
+[02:00:53]: Validating portal[9] <-> <nil>[9] (inactive)	
+[02:00:53]: Attempting to send resume request
+[02:00:53]: Resuming user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[02:00:53]: Could not find anim [idle_loop] in bank [ghost]
+[02:00:53]: Spawning player at: [Load] (152.47, -0.00, 165.92)	
+[02:00:53]: ReceiveResumeNotification
+[02:00:53]: Validating portal[7] <-> <nil>[7] (inactive)	
+[02:00:53]: Validating portal[6] <-> <nil>[6] (inactive)	
+[02:00:53]: Validating portal[5] <-> <nil>[5] (inactive)	
+[02:00:53]: Validating portal[8] <-> <nil>[8] (inactive)	
+[02:00:53]: Deserializing tile data (425 x 425)
+[02:00:59]: Resuming user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000184
+[02:00:59]: Spawning player at: [Load] (171.57, -0.00, 153.93)	
+[02:01:12]: Could not find anim [idle_loop] in bank [ghost]
+[02:01:15]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[02:01:59]: giving 	117013 - icehat	
+[02:02:23]: giving 	117415 - firesuppressor	
+[02:02:23]: Warning: Can't give item because it's not an inventory item.	
+[02:04:09]: giving 	117857 - firesuppressor	
+[02:04:09]: Warning: Can't give item because it's not an inventory item.	
+[02:04:22]: giving 	117889 - firesuppressor	
+[02:04:22]: Warning: Can't give item because it's not an inventory item.	
+[02:05:21]: giving 	118832 - fishsticks	
+[02:05:21]: giving 	118840 - fishsticks	
+[02:05:21]: giving 	118842 - fishsticks	
+[02:05:21]: giving 	118844 - fishsticks	
+[02:05:21]: giving 	118846 - fishsticks	
+[02:05:41]: giving 	119152 - lifeinjector	
+[02:05:41]: giving 	119158 - lifeinjector	
+[02:05:41]: giving 	119160 - lifeinjector	
+[02:05:55]: giving 	119237 - fishsticks	
+[02:05:55]: giving 	119245 - fishsticks	
+[02:05:55]: giving 	119247 - fishsticks	
+[02:05:55]: giving 	119249 - fishsticks	
+[02:05:55]: giving 	119251 - fishsticks	
+[02:07:10]: giving 	119928 - mushroom_light	
+[02:07:10]: Warning: Can't give item because it's not an inventory item.	
+[02:07:26]: giving 	120371 - mushroom_light	
+[02:07:26]: Warning: Can't give item because it's not an inventory item.	
+[02:07:39]: giving 	121046 - lightbulb	
+[02:07:39]: giving 	121054 - lightbulb	
+[02:07:39]: giving 	121056 - lightbulb	
+[02:07:39]: giving 	121058 - lightbulb	
+[02:07:39]: giving 	121060 - lightbulb	
+[02:07:39]: giving 	121062 - lightbulb	
+[02:07:39]: giving 	121064 - lightbulb	
+[02:07:39]: giving 	121066 - lightbulb	
+[02:07:39]: giving 	121068 - lightbulb	
+[02:07:39]: giving 	121070 - lightbulb	
+[02:08:32]: giving 	121409 - mushroom_light	
+[02:08:32]: Warning: Can't give item because it's not an inventory item.	
+[02:08:53]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[02:08:53]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000184
+[02:08:54]: Serializing world: session/6EED019C36C035A2/0000000184
+[02:10:10]: giving 	121703 - mushroom_light	
+[02:10:10]: Warning: Can't give item because it's not an inventory item.	
+[02:10:21]: giving 	121763 - lightbulb	
+[02:10:21]: giving 	121771 - lightbulb	
+[02:10:21]: giving 	121773 - lightbulb	
+[02:10:21]: giving 	121775 - lightbulb	
+[02:10:21]: giving 	121777 - lightbulb	
+[02:10:21]: giving 	121779 - lightbulb	
+[02:10:21]: giving 	121781 - lightbulb	
+[02:10:21]: giving 	121783 - lightbulb	
+[02:10:21]: giving 	121785 - lightbulb	
+[02:10:21]: giving 	121787 - lightbulb	
+[02:11:20]: KU_J9MSQIOb	running command:	rollback	false	
+[02:11:21]: Building a command without enough arguments!	
+[02:11:21]: KU_J9MSQIOb	running text command:	rollback	true	
+[02:11:26]: Received world rollback request: count=1	
+[02:11:26]: Truncating to snapshot #184...
+[02:11:26]:  - session/6EED019C36C035A2/0000000178
+[02:11:26]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000178
+[02:11:26]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000178
+[02:11:26]:    3 file(s) removed
+[02:11:27]: Collecting garbage...
+[02:11:27]: lua_gc took 0.11 seconds
+[02:11:27]: ~ShardLuaProxy()
+[02:11:27]: ~cEventLeaderboardProxy()
+[02:11:27]: ~ItemServerLuaProxy()
+[02:11:27]: ~InventoryLuaProxy()
+[02:11:27]: ~NetworkLuaProxy()
+[02:11:27]: ~SimLuaProxy()
+[02:11:27]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[02:11:27]: lua_close took 0.28 seconds
+[02:11:27]: ReleaseAll
+[02:11:27]: ReleaseAll Finished
+[02:11:27]: cGame::StartPlaying
+[02:11:27]: LOADING LUA
+[02:11:27]: DoLuaFile scripts/main.lua
+[02:11:27]: DoLuaFile loading buffer scripts/main.lua
+[02:11:27]:   taskgrouplist:	default	Together	
+[02:11:27]:   taskgrouplist:	classic	Classic	
+[02:11:27]:   taskgrouplist:	cave_default	Underground	
+[02:11:27]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[02:11:27]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[02:11:27]: running main.lua
+	
+[02:11:27]: loaded modindex	
+[02:11:27]: ModIndex: Beginning normal load sequence.
+	
+[02:11:28]: LOADING LUA SUCCESS
+[02:11:28]: PlayerDeaths loaded morgue	6140	
+[02:11:28]: PlayerHistory loaded player_history (v2) len:212	
+[02:11:28]: bloom_enabled	false	
+[02:11:28]: loaded saveindex	
+[02:11:28]: OnFilesLoaded()	
+[02:11:28]: OnUpdatePurchaseStateComplete	
+[02:11:28]: Loading world: session/6EED019C36C035A2/0000000184	
+[02:11:28]: Save file is at version 4.77	
+[02:11:28]: Klump load on boot started.	
+[02:11:28]: Klump files loaded: 	0	
+[02:11:28]: 	Unload characters	
+[02:11:28]: 	BE assets already loaded	
+[02:11:29]: Begin Session: 6EED019C36C035A2
+[02:11:29]: Stomping previously assigned session identifier, two loads issued.
+[02:11:29]: saving to server_temp/server_save	
+[02:11:29]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:11:29]: Loading 12 new character(s)	
+[02:11:30]: Total 12 character(s) loaded	
+[02:11:30]: Loading Nav Grid	
+[02:11:30]: setting 	summerlength	15	
+[02:11:30]: setting 	isnightmaredawn	false	
+[02:11:30]: setting 	elapseddaysinseason	4	
+[02:11:30]: setting 	isfullmoon	false	
+[02:11:30]: setting 	moisture	4483.3540039063	
+[02:11:30]: setting 	springlength	20	
+[02:11:30]: setting 	isnightmarewild	false	
+[02:11:30]: setting 	moonphase	threequarter	
+[02:11:30]: setting 	precipitationrate	0	
+[02:11:30]: setting 	iswet	false	
+[02:11:30]: setting 	isnewmoon	false	
+[02:11:30]: setting 	iswinter	false	
+[02:11:30]: setting 	israining	false	
+[02:11:30]: setting 	isnightmarewarn	false	
+[02:11:30]: setting 	precipitation	none	
+[02:11:30]: setting 	cavephase	day	
+[02:11:30]: setting 	moistureceil	4521.6860351563	
+[02:11:30]: setting 	isday	true	
+[02:11:30]: setting 	iscaveday	true	
+[02:11:30]: setting 	season	summer	
+[02:11:30]: setting 	timeinphase	0.0023753574916294	
+[02:11:30]: setting 	temperature	84.762966806954	
+[02:11:30]: setting 	isnightmarecalm	false	
+[02:11:30]: setting 	isnight	false	
+[02:11:30]: setting 	isdusk	false	
+[02:11:30]: setting 	iscavedusk	false	
+[02:11:30]: setting 	isautumn	false	
+[02:11:30]: setting 	issnowing	false	
+[02:11:30]: setting 	iswaxingmoon	true	
+[02:11:30]: setting 	pop	0.99048245284457	
+[02:11:30]: setting 	snowlevel	0	
+[02:11:30]: setting 	issnowcovered	false	
+[02:11:30]: setting 	autumnlength	20	
+[02:11:30]: setting 	phase	day	
+[02:11:30]: setting 	nightmaretime	0	
+[02:11:30]: setting 	winterlength	5	
+[02:11:30]: setting 	isspring	false	
+[02:11:30]: setting 	nightmarephase	none	
+[02:11:30]: setting 	remainingdaysinseason	11	
+[02:11:30]: setting 	cycles	169	
+[02:11:30]: setting 	iscavenight	false	
+[02:11:30]: setting 	nightmaretimeinphase	0	
+[02:11:30]: setting 	wetness	0	
+[02:11:30]: setting 	time	0.0020784378051757	
+[02:11:30]: setting 	issummer	true	
+[02:11:30]: OVERRIDE: setting	day	to	longday	
+[02:11:35]: Reconstructing topology	
+[02:11:35]: 	...Sorting points	
+[02:11:35]: 	...Sorting edges	
+[02:11:35]: 	...Connecting nodes	
+[02:11:35]: 	...Validating connections	
+[02:11:35]: 	...Housekeeping	
+[02:11:35]: 	...Done!	
+[02:11:35]: Restoring user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000184	
+[02:11:35]: Restoring user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000184	
+[02:11:35]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000185
+[02:11:35]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000185
+[02:11:35]: 1 uploads added to server. From server_temp
+[02:11:35]: Telling Client our new session identifier: 6EED019C36C035A2
+[02:11:35]: ModIndex: Load sequence finished successfully.	
+[02:11:36]: Reset() returning
+[02:11:37]: Validating portal[9] <-> <nil>[9] (inactive)	
+[02:11:37]: Validating portal[10] <-> <nil>[10] (inactive)	
+[02:11:37]: Validating portal[5] <-> <nil>[5] (inactive)	
+[02:11:37]: Validating portal[6] <-> <nil>[6] (inactive)	
+[02:11:37]: Validating portal[2] <-> <nil>[2] (inactive)	
+[02:11:37]: Validating portal[4] <-> <nil>[4] (inactive)	
+[02:11:37]: Validating portal[1] <-> <nil>[1] (inactive)	
+[02:11:37]: Validating portal[8] <-> <nil>[8] (inactive)	
+[02:11:37]: Attempting to send resume request
+[02:11:37]: Resuming user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000185
+[02:11:37]: Spawning player at: [Load] (153.72, 0.00, 144.50)	
+[02:11:37]: ReceiveResumeNotification
+[02:11:37]: Validating portal[7] <-> <nil>[7] (inactive)	
+[02:11:37]: Validating portal[3] <-> <nil>[3] (inactive)	
+[02:11:37]: Deserializing tile data (425 x 425)
+[02:11:43]: Resuming user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000185
+[02:11:43]: Spawning player at: [Load] (178.63, -0.00, 156.68)	
+[02:19:37]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000185
+[02:19:37]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000185
+[02:19:38]: Serializing world: session/6EED019C36C035A2/0000000185
+[02:20:24]: giving 	133469 - siestahut	
+[02:20:24]: Warning: Can't give item because it's not an inventory item.	
+[02:20:24]: giving 	133470 - siestahut	
+[02:20:24]: Warning: Can't give item because it's not an inventory item.	
+[02:20:24]: giving 	133471 - siestahut	
+[02:20:24]: Warning: Can't give item because it's not an inventory item.	
+[02:20:24]: giving 	133472 - siestahut	
+[02:20:24]: Warning: Can't give item because it's not an inventory item.	
+[02:20:24]: giving 	133473 - siestahut	
+[02:20:24]: Warning: Can't give item because it's not an inventory item.	
+[02:20:49]: giving 	133802 - tent	
+[02:20:49]: Warning: Can't give item because it's not an inventory item.	
+[02:20:49]: giving 	133803 - tent	
+[02:20:49]: Warning: Can't give item because it's not an inventory item.	
+[02:20:49]: giving 	133804 - tent	
+[02:20:49]: Warning: Can't give item because it's not an inventory item.	
+[02:20:49]: giving 	133805 - tent	
+[02:20:49]: Warning: Can't give item because it's not an inventory item.	
+[02:20:49]: giving 	133806 - tent	
+[02:20:49]: Warning: Can't give item because it's not an inventory item.	
+[02:21:25]: giving 	134263 - fishsticks	
+[02:21:25]: giving 	134271 - fishsticks	
+[02:21:25]: giving 	134273 - fishsticks	
+[02:21:25]: giving 	134275 - fishsticks	
+[02:21:25]: giving 	134277 - fishsticks	
+[02:22:21]: giving 	134458 - siestahut	
+[02:22:21]: Warning: Can't give item because it's not an inventory item.	
+[02:22:21]: giving 	134459 - siestahut	
+[02:22:21]: Warning: Can't give item because it's not an inventory item.	
+[02:22:21]: giving 	134460 - siestahut	
+[02:22:21]: Warning: Can't give item because it's not an inventory item.	
+[02:22:21]: giving 	134461 - siestahut	
+[02:22:21]: Warning: Can't give item because it's not an inventory item.	
+[02:22:21]: giving 	134462 - siestahut	
+[02:22:21]: Warning: Can't give item because it's not an inventory item.	
+[02:23:25]: giving 	134703 - tent	
+[02:23:25]: Warning: Can't give item because it's not an inventory item.	
+[02:23:25]: giving 	134704 - tent	
+[02:23:25]: Warning: Can't give item because it's not an inventory item.	
+[02:23:25]: giving 	134705 - tent	
+[02:23:25]: Warning: Can't give item because it's not an inventory item.	
+[02:23:25]: giving 	134706 - tent	
+[02:23:25]: Warning: Can't give item because it's not an inventory item.	
+[02:23:25]: giving 	134707 - tent	
+[02:23:25]: Warning: Can't give item because it's not an inventory item.	
+[02:27:38]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000186
+[02:27:38]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000186
+[02:27:38]: Serializing world: session/6EED019C36C035A2/0000000186
+[02:30:06]: [200] Account Communication Success (6)
+[02:30:06]: Received (KU_J9MSQIOb) from TokenPurpose
+[02:31:50]: Connection lost to 91.24.205.38|1 <4424016789946584604>
+[02:31:50]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000187
+[02:32:02]: [P2P] Connection failed for '76561198404125141'
+[02:32:20]: CURL ERROR: (lobby.klei.ca) SSL read: error:00000000:lib(0):func(0):reason(0), errno 10053
+[02:32:20]: Failed to send server broadcast message
+[02:32:32]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:32:32]: Failed to send server broadcast message
+[02:32:46]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:32:46]: Failed to send server broadcast message
+[02:33:22]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:33:22]: Failed to send server broadcast message
+[02:33:36]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:33:36]: Failed to send server broadcast message
+[02:34:01]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:34:01]: Failed to send server broadcast message
+[02:34:26]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:34:26]: Failed to send server broadcast message
+[02:34:51]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:34:51]: Failed to send server broadcast message
+[02:35:16]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:35:16]: Failed to send server broadcast message
+[02:35:23]: Could not find anim [death] in bank [ghost]
+[02:35:23]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000187
+[02:35:23]: SAVING Morgue	40	
+[02:35:33]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[02:35:38]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000187
+[02:35:38]: Serializing world: session/6EED019C36C035A2/0000000187
+[02:35:48]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:35:48]: Failed to send server broadcast message
+[02:36:02]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:36:02]: Failed to send server broadcast message
+[02:36:38]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:36:38]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[02:36:38]: Failed to send server broadcast message
+[02:36:49]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[02:36:49]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[02:37:03]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:37:03]: Failed to send server broadcast message
+[02:37:28]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:37:28]: Failed to send server broadcast message
+[02:37:53]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:37:53]: Failed to send server broadcast message
+[02:38:18]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:38:18]: Failed to send server broadcast message
+[02:38:32]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:38:32]: Failed to send server broadcast message
+[02:39:08]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:39:08]: Failed to send server broadcast message
+[02:39:33]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:39:33]: Failed to send server broadcast message
+[02:39:58]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:39:58]: Failed to send server broadcast message
+[02:40:23]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:40:23]: Failed to send server broadcast message
+[02:40:48]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:40:48]: Failed to send server broadcast message
+[02:41:13]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:41:13]: Failed to send server broadcast message
+[02:41:27]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:41:27]: Failed to send server broadcast message
+[02:41:38]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[02:41:38]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[02:41:50]: [P2P] Session timed out for '76561198404125141'
+[02:41:50]: [P2P] Remove session: 91.24.205.38|1 '76561198404125141'
+[02:41:52]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:41:52]: Failed to send server broadcast message
+[02:42:17]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:42:17]: Failed to send server broadcast message
+[02:42:53]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:42:53]: Failed to send server broadcast message
+[02:43:18]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:43:18]: Failed to send server broadcast message
+[02:43:38]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000188
+[02:43:39]: Serializing world: session/6EED019C36C035A2/0000000188
+[02:43:43]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:43:43]: Failed to send server broadcast message
+[02:43:44]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:43:44]: Failed to send server broadcast message
+[02:44:20]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:44:20]: Failed to send server broadcast message
+[02:44:34]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:44:34]: Failed to send server broadcast message
+[02:45:10]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:45:10]: Failed to send server broadcast message
+[02:45:35]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:45:35]: Failed to send server broadcast message
+[02:45:49]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:45:49]: Failed to send server broadcast message
+[02:46:14]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:46:14]: Failed to send server broadcast message
+[02:46:43]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5016 milliseconds
+[02:46:43]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5031 milliseconds
+[02:46:50]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:46:50]: Failed to send server broadcast message
+[02:47:04]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:47:04]: Failed to send server broadcast message
+[02:47:40]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:47:40]: Failed to send server broadcast message
+[02:47:54]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:47:54]: Failed to send server broadcast message
+[02:48:30]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:48:30]: Failed to send server broadcast message
+[02:48:55]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:48:55]: Failed to send server broadcast message
+[02:49:20]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:49:20]: Failed to send server broadcast message
+[02:49:45]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:49:45]: Failed to send server broadcast message
+[02:49:59]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:49:59]: Failed to send server broadcast message
+[02:50:35]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:50:35]: Failed to send server broadcast message
+[02:51:00]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:51:00]: Failed to send server broadcast message
+[02:51:25]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:51:25]: Failed to send server broadcast message
+[02:51:38]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:51:38]: Failed to send server broadcast message
+[02:51:38]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[02:51:38]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[02:51:39]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000189
+[02:51:39]: Serializing world: session/6EED019C36C035A2/0000000189
+[02:52:03]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:52:03]: Failed to send server broadcast message
+[02:52:39]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:52:39]: Failed to send server broadcast message
+[02:53:04]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:53:04]: Failed to send server broadcast message
+[02:53:18]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:53:18]: Failed to send server broadcast message
+[02:53:54]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:53:54]: Failed to send server broadcast message
+[02:54:19]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:54:19]: Failed to send server broadcast message
+[02:54:33]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:54:33]: Failed to send server broadcast message
+[02:55:09]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:55:09]: Failed to send server broadcast message
+[02:55:34]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:55:34]: Failed to send server broadcast message
+[02:55:59]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:55:59]: Failed to send server broadcast message
+[02:56:24]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:56:24]: Failed to send server broadcast message
+[02:56:41]: Could not find anim [idle_loop] in bank [ghost]
+[02:56:44]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5031 milliseconds
+[02:56:44]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5016 milliseconds
+[02:56:44]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000190
+[02:56:49]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:56:49]: Failed to send server broadcast message
+[02:57:03]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:57:03]: Failed to send server broadcast message
+[02:57:35]: giving 	138806 - icehat	
+[02:57:39]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:57:39]: Failed to send server broadcast message
+[02:58:00]: giving 	138996 - boards	
+[02:58:00]: giving 	139002 - boards	
+[02:58:00]: giving 	139004 - boards	
+[02:58:00]: giving 	139006 - boards	
+[02:58:00]: giving 	139008 - boards	
+[02:58:00]: giving 	139010 - boards	
+[02:58:00]: giving 	139012 - boards	
+[02:58:00]: giving 	139014 - boards	
+[02:58:00]: giving 	139016 - boards	
+[02:58:00]: giving 	139018 - boards	
+[02:58:04]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:58:04]: Failed to send server broadcast message
+[02:58:18]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:58:18]: Failed to send server broadcast message
+[02:58:54]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:58:54]: Failed to send server broadcast message
+[02:59:07]: giving 	139199 - boards	
+[02:59:07]: giving 	139205 - boards	
+[02:59:07]: giving 	139207 - boards	
+[02:59:07]: giving 	139209 - boards	
+[02:59:07]: giving 	139211 - boards	
+[02:59:07]: giving 	139213 - boards	
+[02:59:07]: giving 	139215 - boards	
+[02:59:07]: giving 	139217 - boards	
+[02:59:07]: giving 	139219 - boards	
+[02:59:07]: giving 	139221 - boards	
+[02:59:19]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:59:19]: Failed to send server broadcast message
+[02:59:37]: giving 	139597 - lightbulb	
+[02:59:37]: giving 	139605 - lightbulb	
+[02:59:37]: giving 	139607 - lightbulb	
+[02:59:37]: giving 	139609 - lightbulb	
+[02:59:37]: giving 	139611 - lightbulb	
+[02:59:37]: giving 	139613 - lightbulb	
+[02:59:37]: giving 	139615 - lightbulb	
+[02:59:37]: giving 	139617 - lightbulb	
+[02:59:37]: giving 	139619 - lightbulb	
+[02:59:37]: giving 	139621 - lightbulb	
+[02:59:37]: giving 	139623 - lightbulb	
+[02:59:37]: giving 	139625 - lightbulb	
+[02:59:37]: giving 	139627 - lightbulb	
+[02:59:37]: giving 	139629 - lightbulb	
+[02:59:37]: giving 	139631 - lightbulb	
+[02:59:37]: giving 	139633 - lightbulb	
+[02:59:37]: giving 	139635 - lightbulb	
+[02:59:37]: giving 	139637 - lightbulb	
+[02:59:37]: giving 	139639 - lightbulb	
+[02:59:37]: giving 	139641 - lightbulb	
+[02:59:39]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000190
+[02:59:39]: Serializing world: session/6EED019C36C035A2/0000000190
+[02:59:44]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:59:44]: Failed to send server broadcast message
+[02:59:44]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[02:59:44]: Failed to send server broadcast message
+[03:00:05]: CURL ERROR: (login.kleientertainment.com) Could not resolve host: login.kleientertainment.com
+[03:00:05]: [0] Account Failed (6): ""
+[03:00:05]: [Warning] Empty error code received, dumping response:
+[03:00:05]: 
+[03:00:09]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:00:09]: Failed to send server broadcast message
+[03:00:34]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:00:34]: Failed to send server broadcast message
+[03:00:46]: giving 	140215 - mushroom_light	
+[03:00:46]: Warning: Can't give item because it's not an inventory item.	
+[03:01:10]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:01:10]: Failed to send server broadcast message
+[03:01:27]: giving 	140452 - boards	
+[03:01:27]: giving 	140458 - boards	
+[03:01:27]: giving 	140460 - boards	
+[03:01:27]: giving 	140462 - boards	
+[03:01:27]: giving 	140464 - boards	
+[03:01:27]: giving 	140466 - boards	
+[03:01:27]: giving 	140468 - boards	
+[03:01:27]: giving 	140470 - boards	
+[03:01:27]: giving 	140472 - boards	
+[03:01:27]: giving 	140474 - boards	
+[03:01:35]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:01:35]: Failed to send server broadcast message
+[03:01:39]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[03:01:39]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[03:02:00]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:02:00]: Failed to send server broadcast message
+[03:02:14]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:02:14]: Failed to send server broadcast message
+[03:02:50]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:02:50]: Failed to send server broadcast message
+[03:03:15]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:03:15]: Failed to send server broadcast message
+[03:03:40]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:03:40]: Failed to send server broadcast message
+[03:04:05]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:04:05]: Failed to send server broadcast message
+[03:04:15]: Could not find anim [death] in bank [ghost]
+[03:04:15]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000191
+[03:04:15]: SAVING Morgue	39	
+[03:04:19]: CURL ERROR: (metric.kleientertainment.com) Resolving timed out after 5031 milliseconds
+[03:04:30]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:04:30]: Failed to send server broadcast message
+[03:04:31]: Could not find anim [idle_loop] in bank [ghost]
+[03:04:34]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000191
+[03:04:55]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:04:55]: Failed to send server broadcast message
+[03:05:09]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:05:09]: Failed to send server broadcast message
+[03:05:39]: giving 	142467 - pitchfork	
+[03:05:45]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:05:45]: Failed to send server broadcast message
+[03:06:10]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:06:10]: Failed to send server broadcast message
+[03:06:25]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:06:25]: Failed to send server broadcast message
+[03:06:39]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[03:06:39]: CURL ERROR: (metric.kleientertainment.com) Could not resolve host: metric.kleientertainment.com
+[03:07:00]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:07:00]: Failed to send server broadcast message
+[03:07:25]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:07:25]: Failed to send server broadcast message
+[03:07:40]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000191
+[03:07:40]: Serializing world: session/6EED019C36C035A2/0000000191
+[03:07:50]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:07:50]: Failed to send server broadcast message
+[03:08:04]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:08:04]: Failed to send server broadcast message
+[03:08:40]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:08:40]: Failed to send server broadcast message
+[03:09:05]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:09:05]: Failed to send server broadcast message
+[03:09:25]: giving 	143302 - firesuppressor	
+[03:09:25]: Warning: Can't give item because it's not an inventory item.	
+[03:09:30]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:09:30]: Failed to send server broadcast message
+[03:09:55]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:09:55]: Failed to send server broadcast message
+[03:10:09]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:10:09]: Failed to send server broadcast message
+[03:10:18]: DoRestart:	true	
+[03:10:20]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000192
+[03:10:20]: Serializing world: session/6EED019C36C035A2/0000000192
+[03:10:20]: Truncating to snapshot #192...
+[03:10:20]:  - session/6EED019C36C035A2/0000000179
+[03:10:20]:  - session/6EED019C36C035A2/0000000180
+[03:10:20]:  - session/6EED019C36C035A2/0000000181
+[03:10:20]:  - session/6EED019C36C035A2/0000000182
+[03:10:20]:  - session/6EED019C36C035A2/0000000183
+[03:10:20]:  - session/6EED019C36C035A2/0000000184
+[03:10:20]:  - session/6EED019C36C035A2/0000000185
+[03:10:20]:  - session/6EED019C36C035A2/0000000186
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000186
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000185
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000184
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000183
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000182
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000181
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000180
+[03:10:20]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000179
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000186
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000185
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000184
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000183
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000182
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000181
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000180
+[03:10:20]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000179
+[03:10:20]:    24 file(s) removed
+[03:10:20]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:10:20]: Collecting garbage...
+[03:10:20]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[03:10:20]: lua_gc took 0.16 seconds
+[03:10:20]: ~ShardLuaProxy()
+[03:10:20]: ~cEventLeaderboardProxy()
+[03:10:20]: ~ItemServerLuaProxy()
+[03:10:20]: ~InventoryLuaProxy()
+[03:10:20]: ~NetworkLuaProxy()
+[03:10:20]: ~SimLuaProxy()
+[03:10:20]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:10:21]: lua_close took 0.29 seconds
+[03:10:21]: ReleaseAll
+[03:10:21]: ReleaseAll Finished
+[03:10:21]: cGame::StartPlaying
+[03:10:21]: LOADING LUA
+[03:10:21]: DoLuaFile scripts/main.lua
+[03:10:21]: DoLuaFile loading buffer scripts/main.lua
+[03:10:21]:   taskgrouplist:	default	Together	
+[03:10:21]:   taskgrouplist:	classic	Classic	
+[03:10:21]:   taskgrouplist:	cave_default	Underground	
+[03:10:21]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[03:10:21]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[03:10:21]: running main.lua
+	
+[03:10:21]: loaded modindex	
+[03:10:21]: ModIndex: Beginning normal load sequence.
+	
+[03:10:21]: LOADING LUA SUCCESS
+[03:10:21]: PlayerDeaths loaded morgue	6146	
+[03:10:21]: PlayerHistory loaded player_history (v2) len:212	
+[03:10:21]: bloom_enabled	false	
+[03:10:21]: loaded saveindex	
+[03:10:21]: OnFilesLoaded()	
+[03:10:21]: OnUpdatePurchaseStateComplete	
+[03:10:21]: Klump load on boot started.	
+[03:10:21]: Klump files loaded: 	0	
+[03:10:21]: 	Unload characters	
+[03:10:21]: 	Unload BE	
+[03:10:21]: 	Unload BE done	
+[03:10:21]: Could not unload undefined prefab (coldfirefire)
+[03:10:21]: Could not unload undefined prefab (ash)
+[03:10:22]: 	Load FE	
+[03:10:23]: 	Load FE: done	
+[03:10:23]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[03:10:23]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[03:10:23]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[03:10:23]: ModIndex: Load sequence finished successfully.	
+[03:10:23]: Reset() returning
+[03:10:23]: Failed to remove server listing
+[03:14:05]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:14:05]: Collecting garbage...
+[03:14:05]: lua_gc took 0.02 seconds
+[03:14:05]: ~ShardLuaProxy()
+[03:14:05]: ~cEventLeaderboardProxy()
+[03:14:05]: ~ItemServerLuaProxy()
+[03:14:05]: ~InventoryLuaProxy()
+[03:14:05]: ~NetworkLuaProxy()
+[03:14:05]: ~SimLuaProxy()
+[03:14:05]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:14:05]: lua_close took 0.03 seconds
+[03:14:05]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[03:14:05]: [Steam] Auth ticket cancelled
+[03:14:05]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:14:05]: anim/structure_collapse_fx.zip - 1
+[03:14:05]: anim/gems.zip - 6
+[03:14:05]: anim/statue_ruins_small.zip - 4
+[03:14:05]: anim/statue_ruins.zip - 4
+[03:14:05]: anim/statue_ruins_small_gem.zip - 4
+[03:14:05]: anim/treasure_chest.zip - 1
+[03:14:05]: anim/cook_pot_food.zip - 1
+[03:14:05]: anim/boards.zip - 1
+[03:14:05]: anim/nightmarefuel.zip - 1
+[03:14:05]: anim/ui_lamp_1x4.zip - 1
+[03:14:05]: anim/lifepen.zip - 1
+[03:14:05]: anim/siesta_canopy.zip - 1
+[03:14:05]: anim/hat_ice.zip - 1
+[03:14:05]: anim/firefighter_meter.zip - 1
+[03:14:05]: anim/ui_chest_3x2.zip - 1
+[03:14:05]: anim/bulb.zip - 1
+[03:14:05]: anim/die.zip - 1
+[03:14:05]: anim/tent.zip - 1
+[03:14:05]: anim/statue_ruins_gem.zip - 4
+[03:14:05]: anim/thulecite.zip - 1
+[03:14:05]: anim/statue_ruins_fx.zip - 1
+[03:14:05]: anim/silk.zip - 1
+[03:14:05]: anim/firefighter_placement.zip - 1
+[03:14:05]: anim/mushroom_light.zip - 1
+[03:14:05]: anim/marble.zip - 1
+[03:14:05]: anim/firefighter.zip - 1
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[03:14:05]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[03:14:05]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[03:14:05]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[03:14:05]: anim/lifepen.zip:lifepen--atlas-0.tex - 1
+[03:14:05]: anim/gems.zip:gems--atlas-0.tex - 1
+[03:14:05]: anim/ui_lamp_1x4.zip:ui_lamp_1x4--atlas-0.tex - 1
+[03:14:05]: anim/firefighter_meter.zip:firefighter_meter--atlas-0.tex - 1
+[03:14:05]: anim/siesta_canopy.zip:siesta_canopy--atlas-0.tex - 1
+[03:14:05]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[03:14:05]: anim/hat_ice.zip:hat_ice--atlas-0.tex - 1
+[03:14:05]: anim/firefighter_placement.zip:firefighter_placement--atlas-0.tex - 1
+[03:14:05]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[03:14:05]: anim/cook_pot_food.zip:cook_pot_food--atlas-0.tex - 1
+[03:14:05]: anim/boards.zip:boards--atlas-0.tex - 1
+[03:14:05]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[03:14:05]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[03:14:05]: anim/tent.zip:tent--atlas-0.tex - 1
+[03:14:05]: anim/treasure_chest.zip:treasure_chest--atlas-0.tex - 1
+[03:14:05]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[03:14:05]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[03:14:05]: anim/mushroom_light.zip:mushroom_light--atlas-0.tex - 1
+[03:14:05]: anim/marble.zip:marble--atlas-0.tex - 1
+[03:14:05]: anim/silk.zip:silk--atlas-0.tex - 1
+[03:14:05]: anim/firefighter.zip:firefighter--atlas-0.tex - 1
+[03:14:05]: anim/die.zip:die--atlas-0.tex - 1
+[03:14:05]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[03:14:05]: anim/bulb.zip:bulb--atlas-0.tex - 1
+[03:14:05]: anim/ui_chest_3x2.zip:ui_chest_3x2--atlas-0.tex - 1
+[03:14:05]: CurlRequestManager::ClientThread::Main() complete
+[03:14:05]: HttpClient2 discarded 0 callbacks.
+[03:14:05]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 252.0ms!
+[03:14:05]: Shutting down

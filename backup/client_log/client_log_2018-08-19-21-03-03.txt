@@ -1,0 +1,244 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 38%
+	Available Physical Memory: 4960m/8081m
+	Available Page File: 7822m/12486m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 265k
+	Quota Page Pool Usage: 261k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Sat Aug 18 21:37:23 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3001093
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (16012)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:4.25
+[00:00:02]: [Connect] PendingConnection::Reset(true)
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:02]: WindowsFirewall - Application already authorized
+[00:00:02]: could not load ping_cache
+[00:00:02]: THREAD - started 'StreamInput' (6836)
+[00:00:02]: Offline user ID: OU_76561198322581862
+[00:00:02]: SteamID: 76561198322581862
+[00:00:02]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:02]: cGame::InitializeOnMainThread
+[00:00:02]: WindowManager::Initialize
+[00:00:02]: CreateWindow: Requesting 1280,720 - 5/6/5 - -1/-1/-1 - 0
+[00:00:04]: CreateEGLContext: 12 configs found
+[00:00:04]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:04]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:04]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:04]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:04]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:04]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:04]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:04]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:04]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:04]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:04]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:04]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:04]: GLInfo
+[00:00:04]: ~~~~~~
+[00:00:04]: GL_VENDOR: Google Inc.
+[00:00:04]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960M)
+[00:00:04]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:04]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:04]: THREAD - started 'WindowsInputManager' (6152)
+[00:00:04]: OpenGL extensions (19, 19):
+[00:00:04]: GL_ANGLE_depth_texture
+[00:00:04]: GL_ANGLE_framebuffer_blit
+[00:00:04]: GL_ANGLE_framebuffer_multisample
+[00:00:04]: GL_ANGLE_instanced_arrays
+[00:00:04]: GL_ANGLE_pack_reverse_row_order
+[00:00:04]: GL_ANGLE_texture_compression_dxt3
+[00:00:04]: GL_ANGLE_texture_compression_dxt5
+[00:00:04]: GL_ANGLE_texture_usage
+[00:00:04]: GL_ANGLE_translated_shader_source
+[00:00:04]: GL_EXT_read_format_bgra
+[00:00:04]: GL_EXT_robustness
+[00:00:04]: GL_EXT_texture_compression_dxt1
+[00:00:04]: GL_EXT_texture_format_BGRA8888
+[00:00:04]: GL_EXT_texture_storage
+[00:00:04]: GL_OES_get_program_binary
+[00:00:04]: GL_OES_packed_depth_stencil
+[00:00:04]: GL_OES_rgb8_rgba8
+[00:00:04]: GL_OES_standard_derivatives
+[00:00:04]: GL_OES_texture_npot
+[00:00:04]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:04]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:04]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:04]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:04]: GL_MAX_VARYING_VECTORS = 10
+[00:00:04]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:04]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:04]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:04]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:04]: 4 compressed texture formats
+[00:00:04]: texture format 0x83f0
+[00:00:04]: texture format 0x83f1
+[00:00:04]: texture format 0x83f2
+[00:00:04]: texture format 0x83f3
+[00:00:05]: Renderer initialize: Okay
+[00:00:06]: AnimManager initialize: Okay
+[00:00:06]: Buffers initialize: Okay
+[00:00:06]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:06]: GameSpecific initialize: Okay
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]:   taskgrouplist:	default	Together	
+[00:00:06]:   taskgrouplist:	classic	Classic	
+[00:00:06]:   taskgrouplist:	cave_default	Underground	
+[00:00:06]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:06]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:06]: running main.lua
+	
+[00:00:06]: Could not load modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence.
+	
+[00:00:09]: LOADING LUA SUCCESS
+[00:00:09]: PlayerDeaths could not load morgue	
+[00:00:09]: PlayerHistory could not load player_history	
+[00:00:09]: bloom_enabled	false	
+[00:00:09]: Could not load saveindex	
+[00:00:09]: OnFilesLoaded()	
+[00:00:09]: OnUpdatePurchaseStateComplete	
+[00:00:09]: Klump load on boot started.	
+[00:00:09]: Klump files loaded: 	0	
+[00:00:11]: 	Load FE	
+[00:00:12]: 	Load FE: done	
+[00:00:12]: THREAD - started 'FilesExistAsyncThread' (1424)
+[00:00:12]: FilesExistAsyncThread started (16739 files)...
+[00:00:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:12]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:12]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:12]: ModIndex: Load sequence finished successfully.	
+[00:00:12]: Reset() returning
+[00:00:12]: CSteamSocketNetworking for [U:1:362316134] got SteamNetworkingSocketsConfigUpdated_t notification
+[00:00:12]: Got SDR network config.  Loaded revision 165 OK
+[00:00:14]: [Steam] Auth Session Ticket requested...
+[00:00:14]: Failed to communicate with routing cluster 'man'.
+[00:00:14]: ... FilesExistAsyncThread complete
+[00:00:14]: Communications with routing cluster 'man' established.
+[00:00:14]: [Steam] Got Auth Session Ticket
+[00:00:15]: Ping measurement completed
+[00:00:15]: Ping location: hkg=33+3,sgp=68+6/68+3,man=69+6/69+3,tyo=226+22/80+3,maa=260+26/102+3,bom=275+27/126+3,dxb=324+32/151+3,syd=235+23/157+53,sea=303+30/162+3,iad=380+38/224+3,fra=390+39/243+23,gru=376+37/361+3
+[00:00:17]: [200] Account Communication Success (3)
+[00:00:17]: Logging in as KU_J9MSQIOb
+[00:00:19]: saved APP:Klei//DoNotStarveTogether/client_save/pricing_cache
+[00:00:19]: There is no active event to get the status of.
+[00:00:19]: could not load inventory_cache_prod
+[00:00:22]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:00:22]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:00:22]: SimLuaProxy::QueryServer()
+[00:00:24]: Getting top mod details...
+[00:00:24]: Frontend-Unloading mod 'all'.	
+[00:00:24]: GOT top mod details...50
+[00:00:51]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:51]: Collecting garbage...
+[00:00:51]: lua_gc took 0.02 seconds
+[00:00:51]: ~ShardLuaProxy()
+[00:00:51]: ~cEventLeaderboardProxy()
+[00:00:51]: ~ItemServerLuaProxy()
+[00:00:51]: ~InventoryLuaProxy()
+[00:00:51]: ~NetworkLuaProxy()
+[00:00:51]: ~SimLuaProxy()
+[00:00:51]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:51]: lua_close took 0.03 seconds
+[00:00:51]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:51]: [Steam] Auth ticket cancelled
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:51]: CurlRequestManager::ClientThread::Main() complete
+[00:00:51]: HttpClient2 discarded 0 callbacks.
+[00:00:51]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 250.8ms!
+[00:00:51]: Shutting down

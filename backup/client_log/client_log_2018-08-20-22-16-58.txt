@@ -1,0 +1,331 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 38%
+	Available Physical Memory: 4958m/8081m
+	Available Page File: 8284m/11537m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 32m
+	Quota Peak Page Pool Usage: 265k
+	Quota Page Pool Usage: 261k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Mon Aug 20 22:14:42 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3001093
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (3756)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 20.6ms!
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:02]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:02]: Mounting file system databundles/images.zip successful.
+[00:00:02]: Mounting file system databundles/scripts.zip successful.
+[00:00:02]: ProfileIndex:4.43
+[00:00:02]: [Connect] PendingConnection::Reset(true)
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:02]: WindowsFirewall - Application already authorized
+[00:00:02]: THREAD - started 'StreamInput' (11688)
+[00:00:02]: loaded ping_cache
+[00:00:02]: Offline user ID: OU_76561198322581862
+[00:00:02]: SteamID: 76561198322581862
+[00:00:02]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:02]: cGame::InitializeOnMainThread
+[00:00:02]: WindowManager::Initialize
+[00:00:02]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:03]: Failed to communicate with routing cluster 'vie'.
+[00:00:04]: Communications with routing cluster 'vie' established.
+[00:00:04]: CreateEGLContext: 12 configs found
+[00:00:04]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:04]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:04]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:04]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:04]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:04]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:04]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:04]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:04]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:04]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:04]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:04]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:04]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:04]: GLInfo
+[00:00:04]: ~~~~~~
+[00:00:04]: GL_VENDOR: Google Inc.
+[00:00:04]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960M)
+[00:00:04]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:04]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:04]: OpenGL extensions (19, 19):
+[00:00:04]: GL_ANGLE_depth_texture
+[00:00:04]: GL_ANGLE_framebuffer_blit
+[00:00:04]: GL_ANGLE_framebuffer_multisample
+[00:00:04]: GL_ANGLE_instanced_arrays
+[00:00:04]: GL_ANGLE_pack_reverse_row_order
+[00:00:04]: GL_ANGLE_texture_compression_dxt3
+[00:00:04]: GL_ANGLE_texture_compression_dxt5
+[00:00:04]: GL_ANGLE_texture_usage
+[00:00:04]: GL_ANGLE_translated_shader_source
+[00:00:04]: GL_EXT_read_format_bgra
+[00:00:04]: GL_EXT_robustness
+[00:00:04]: GL_EXT_texture_compression_dxt1
+[00:00:04]: GL_EXT_texture_format_BGRA8888
+[00:00:04]: GL_EXT_texture_storage
+[00:00:04]: GL_OES_get_program_binary
+[00:00:04]: GL_OES_packed_depth_stencil
+[00:00:04]: GL_OES_rgb8_rgba8
+[00:00:04]: GL_OES_standard_derivatives
+[00:00:04]: GL_OES_texture_npot
+[00:00:04]: THREAD - started 'WindowsInputManager' (12172)
+[00:00:04]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:04]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:04]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:04]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:04]: GL_MAX_VARYING_VECTORS = 10
+[00:00:04]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:04]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:04]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:04]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:04]: 4 compressed texture formats
+[00:00:04]: texture format 0x83f0
+[00:00:04]: texture format 0x83f1
+[00:00:04]: texture format 0x83f2
+[00:00:04]: texture format 0x83f3
+[00:00:05]: Ping measurement completed
+[00:00:05]: Ping location: sgp=63+6,hkg=72+7,man=95+9,maa=268+26/96+6,tyo=239+23/119+7,bom=302+30/121+6,dxb=374+37/146+6,syd=294+29/195+57,tuk=263+26/201+7,fra=272+27/261+24,iad=374+37/263+7,gru=506+50/400+7
+[00:00:10]: Renderer initialize: Okay
+[00:00:10]: AnimManager initialize: Okay
+[00:00:10]: Buffers initialize: Okay
+[00:00:10]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:10]: GameSpecific initialize: Okay
+[00:00:10]: cGame::StartPlaying
+[00:00:10]: LOADING LUA
+[00:00:10]: DoLuaFile scripts/main.lua
+[00:00:10]: DoLuaFile loading buffer scripts/main.lua
+[00:00:12]:   taskgrouplist:	default	Together	
+[00:00:12]:   taskgrouplist:	classic	Classic	
+[00:00:12]:   taskgrouplist:	cave_default	Underground	
+[00:00:12]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:12]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:12]: running main.lua
+	
+[00:00:12]: loaded modindex	
+[00:00:12]: ModIndex: Beginning normal load sequence.
+	
+[00:00:21]: LOADING LUA SUCCESS
+[00:00:21]: PlayerDeaths loaded morgue	6144	
+[00:00:21]: PlayerHistory loaded player_history (v2) len:212	
+[00:00:21]: bloom_enabled	false	
+[00:00:21]: loaded saveindex	
+[00:00:21]: OnFilesLoaded()	
+[00:00:21]: OnUpdatePurchaseStateComplete	
+[00:00:21]: Klump load on boot started.	
+[00:00:21]: Klump files loaded: 	0	
+[00:00:24]: 	Load FE	
+[00:00:36]: 	Load FE: done	
+[00:00:36]: THREAD - started 'FilesExistAsyncThread' (11596)
+[00:00:36]: FilesExistAsyncThread started (16739 files)...
+[00:00:36]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:36]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:36]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:36]: ModIndex: Load sequence finished successfully.	
+[00:00:36]: Reset() returning
+[00:00:43]: [Steam] Auth Session Ticket requested...
+[00:00:43]: [Steam] Got Auth Session Ticket
+[00:00:45]: ... FilesExistAsyncThread complete
+[00:00:49]: [200] Account Communication Success (3)
+[00:00:49]: Logging in as KU_J9MSQIOb
+[00:00:54]: saved APP:Klei//DoNotStarveTogether/client_save/pricing_cache
+[00:00:54]: There is no active event to get the status of.
+[00:00:54]: loaded inventory_cache_prod
+[00:00:56]: loaded inventory_cache_prod
+[00:00:58]: SimLuaProxy::QueryServer()
+[00:01:00]: Getting top mod details...
+[00:01:00]: Frontend-Unloading mod 'all'.	
+[00:01:02]: GOT top mod details...50
+[00:01:04]: GetGameModeMaxPlayers	endless	nil	
+[00:01:04]: Network tick rate: U=15(2), D=0
+[00:01:04]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:04]: About to start a server with the following settings:
+[00:01:04]:   Dedicated: false
+[00:01:04]:   Online: true
+[00:01:04]:   Passworded: false
+[00:01:04]:   ServerPort: 10999
+[00:01:04]:   SteamAuthPort: 8766
+[00:01:04]:   SteamMasterServerPort: 27016
+[00:01:04]:   ClanID: false
+[00:01:04]:   ClanOnly: false
+[00:01:04]:   ClanAdmin: false
+[00:01:04]:   LanOnly: false
+[00:01:04]:   FriendsOnly: true
+[00:01:04]:   EnableAutosaver: true
+[00:01:04]:   EncodeUserPath: true
+[00:01:04]:   PVP: true
+[00:01:04]:   MaxPlayers: 6
+[00:01:04]:   GameMode: endless
+[00:01:04]:   OverridenDNS: 
+[00:01:04]:   PauseWhenEmpty: true
+[00:01:04]:   IdleTimeout: 1800s
+[00:01:04]:   VoteEnabled: false
+[00:01:04]:   InternetBroadcasting: true
+[00:01:04]:   Intent: cooperative
+[00:01:04]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:01:04]: Online Server Started on port: 10999
+[00:01:04]: Collecting garbage...
+[00:01:04]: lua_gc took 0.03 seconds
+[00:01:04]: ~ShardLuaProxy()
+[00:01:04]: ~cEventLeaderboardProxy()
+[00:01:04]: ~ItemServerLuaProxy()
+[00:01:04]: ~InventoryLuaProxy()
+[00:01:04]: ~NetworkLuaProxy()
+[00:01:04]: ~SimLuaProxy()
+[00:01:04]: Cancelling LuaQueryCallback handle [6]
+[00:01:04]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:04]: lua_close took 0.04 seconds
+[00:01:04]: ReleaseAll
+[00:01:04]: ReleaseAll Finished
+[00:01:04]: cGame::StartPlaying
+[00:01:04]: LOADING LUA
+[00:01:04]: DoLuaFile scripts/main.lua
+[00:01:04]: DoLuaFile loading buffer scripts/main.lua
+[00:01:04]:   taskgrouplist:	default	Together	
+[00:01:04]:   taskgrouplist:	classic	Classic	
+[00:01:04]:   taskgrouplist:	cave_default	Underground	
+[00:01:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:04]: running main.lua
+	
+[00:01:04]: loaded modindex	
+[00:01:04]: ModIndex: Beginning normal load sequence.
+	
+[00:01:04]: LOADING LUA SUCCESS
+[00:01:04]: PlayerDeaths loaded morgue	6144	
+[00:01:04]: PlayerHistory loaded player_history (v2) len:212	
+[00:01:04]: bloom_enabled	false	
+[00:01:04]: loaded saveindex	
+[00:01:04]: OnFilesLoaded()	
+[00:01:04]: OnUpdatePurchaseStateComplete	
+[00:01:04]: Loading world: session/6EED019C36C035A2/0000000132	
+[00:01:05]: Save file is at version 4.77	
+[00:01:05]: Klump load on boot started.	
+[00:01:05]: Klump files loaded: 	0	
+[00:01:05]: 	Unload FE	
+[00:01:05]: 	Unload FE done	
+[00:01:06]: 	LOAD BE	
+[00:02:00]: 	LOAD BE: done	
+[00:02:00]: Begin Session: 6EED019C36C035A2
+[00:02:00]: saving to server_temp/server_save	
+[00:02:00]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:02:01]: Loading 12 new character(s)	
+[00:02:06]: Total 12 character(s) loaded	
+[00:02:06]: Loading Nav Grid	
+[00:02:06]: setting 	summerlength	15	
+[00:02:06]: setting 	isnightmaredawn	false	
+[00:02:06]: setting 	elapseddaysinseason	14	
+[00:02:06]: setting 	isfullmoon	false	
+[00:02:06]: setting 	moisture	3785.8037109375	
+[00:02:06]: setting 	springlength	20	
+[00:02:06]: setting 	isnightmarewild	false	
+[00:02:06]: setting 	moonphase	quarter	
+[00:02:06]: setting 	precipitationrate	0	
+[00:02:06]: setting 	iswet	false	
+[00:02:06]: setting 	isnewmoon	false	
+[00:02:06]: setting 	iswinter	false	
+[00:02:06]: setting 	israining	false	
+[00:02:06]: setting 	isnightmarewarn	false	
+[00:02:06]: setting 	precipitation	none	
+[00:02:06]: setting 	cavephase	day	
+[00:02:06]: setting 	moistureceil	4631.4204101563	
+[00:02:06]: setting 	isday	true	
+[00:02:06]: setting 	iscaveday	true	
+[00:02:06]: setting 	season	summer	
+[00:02:06]: setting 	timeinphase	0.0023135957263765	
+[00:02:06]: setting 	temperature	67.348625294221	
+[00:02:06]: setting 	isnightmarecalm	false	
+[00:02:06]: setting 	isnight	false	
+[00:02:06]: setting 	isdusk	false	
+[00:02:06]: setting 	iscavedusk	false	
+[00:02:06]: setting 	isautumn	false	
+[00:02:06]: setting 	issnowing	false	
+[00:02:06]: setting 	iswaxingmoon	false	
+[00:02:06]: setting 	pop	0.78363705429222	
+[00:02:06]: setting 	snowlevel	0	
+[00:02:06]: setting 	issnowcovered	false	
+[00:02:06]: setting 	autumnlength	20	
+[00:02:06]: setting 	phase	day	
+[00:02:06]: setting 	nightmaretime	0	
+[00:02:06]: setting 	winterlength	5	
+[00:02:06]: setting 	isspring	false	
+[00:02:06]: setting 	nightmarephase	none	
+[00:02:06]: setting 	remainingdaysinseason	1	
+[00:02:06]: setting 	cycles	119	
+[00:02:06]: setting 	iscavenight	false	
+[00:02:06]: setting 	nightmaretimeinphase	0	
+[00:02:06]: setting 	wetness	0	
+[00:02:06]: setting 	time	0.0020243962605794	
+[00:02:06]: setting 	issummer	true	
+[00:02:06]: OVERRIDE: setting	day	to	longday	
+[00:02:10]: Reconstructing topology	
+[00:02:10]: 	...Sorting points	
+[00:02:10]: 	...Sorting edges	
+[00:02:10]: 	...Connecting nodes	
+[00:02:10]: 	...Validating connections	
+[00:02:10]: 	...Housekeeping	
+[00:02:10]: 	...Done!	
+[00:02:10]: Truncating to snapshot #132...
+[00:02:10]:  - session/6EED019C36C035A2/0000000125
+[00:02:10]:  - session/6EED019C36C035A2/0000000126
+[00:02:10]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000126
+[00:02:10]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000125
+[00:02:10]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000126
+[00:02:10]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000125
+[00:02:10]:    6 file(s) removed
+[00:02:10]: Restoring user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000132	
+[00:02:10]: Restoring user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000132	
+[00:02:10]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000133
+[00:02:10]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000133
+[00:02:10]: 1 uploads added to server. From server_temp
+[00:02:10]: Telling Client our new session identifier: 6EED019C36C035A2
+[00:02:10]: ModIndex: Load sequence finished successfully.	
+[00:02:11]: Reset() returning
