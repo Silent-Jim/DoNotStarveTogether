@@ -1,0 +1,230 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 40%
+	Available Physical Memory: 4830m/8081m
+	Available Page File: 4565m/8593m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 266k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Sat Aug 25 21:36:09 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3001093
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (12688)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:5.13
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:01]: WindowsFirewall - Application already authorized
+[00:00:01]: THREAD - started 'StreamInput' (4140)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198322581862
+[00:00:01]: SteamID: 76561198322581862
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:02]: Failed to communicate with routing cluster 'ams'.
+[00:00:02]: Failed to communicate with routing cluster 'atl'.
+[00:00:02]: Failed to communicate with routing cluster 'bom'.
+[00:00:02]: Failed to communicate with routing cluster 'dxb'.
+[00:00:02]: Failed to communicate with routing cluster 'fra'.
+[00:00:02]: Failed to communicate with routing cluster 'gru'.
+[00:00:02]: Failed to communicate with routing cluster 'hkg'.
+[00:00:02]: Failed to communicate with routing cluster 'iad'.
+[00:00:02]: Failed to communicate with routing cluster 'jnb'.
+[00:00:02]: Failed to communicate with routing cluster 'lax'.
+[00:00:02]: Unable to communicate with ANY Steam Datagram routing cluster.  Possible problem with local internet connection?
+[00:00:03]: Failed to communicate with routing cluster 'lhr'.
+[00:00:03]: Failed to communicate with routing cluster 'lim'.
+[00:00:03]: Failed to communicate with routing cluster 'lux'.
+[00:00:03]: Failed to communicate with routing cluster 'maa'.
+[00:00:03]: Failed to communicate with routing cluster 'mad'.
+[00:00:03]: Failed to communicate with routing cluster 'man'.
+[00:00:03]: Failed to communicate with routing cluster 'mwh'.
+[00:00:03]: Failed to communicate with routing cluster 'okc'.
+[00:00:03]: Failed to communicate with routing cluster 'ord'.
+[00:00:03]: Failed to communicate with routing cluster 'par'.
+[00:00:03]: Failed to communicate with routing cluster 'scl'.
+[00:00:03]: Failed to communicate with routing cluster 'sea'.
+[00:00:03]: Failed to communicate with routing cluster 'sgp'.
+[00:00:03]: Failed to communicate with routing cluster 'sto'.
+[00:00:03]: Failed to communicate with routing cluster 'sto2'.
+[00:00:03]: Failed to communicate with routing cluster 'syd'.
+[00:00:03]: Failed to communicate with routing cluster 'tuk'.
+[00:00:03]: Failed to communicate with routing cluster 'tyo'.
+[00:00:03]: Failed to communicate with routing cluster 'vie'.
+[00:00:03]: Failed to communicate with routing cluster 'waw'.
+[00:00:04]: CreateEGLContext: 12 configs found
+[00:00:04]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:04]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:04]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:04]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:04]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:04]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:04]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:04]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:04]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:04]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:04]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:04]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:04]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:04]: Ping measurement completed
+[00:00:04]: No ping data available.
+[00:00:04]: GLInfo
+[00:00:04]: ~~~~~~
+[00:00:04]: GL_VENDOR: Google Inc.
+[00:00:04]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960M)
+[00:00:04]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:04]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:04]: THREAD - started 'WindowsInputManager' (3732)
+[00:00:04]: OpenGL extensions (19, 19):
+[00:00:04]: GL_ANGLE_depth_texture
+[00:00:04]: GL_ANGLE_framebuffer_blit
+[00:00:04]: GL_ANGLE_framebuffer_multisample
+[00:00:04]: GL_ANGLE_instanced_arrays
+[00:00:04]: GL_ANGLE_pack_reverse_row_order
+[00:00:04]: GL_ANGLE_texture_compression_dxt3
+[00:00:04]: GL_ANGLE_texture_compression_dxt5
+[00:00:04]: GL_ANGLE_texture_usage
+[00:00:04]: GL_ANGLE_translated_shader_source
+[00:00:04]: GL_EXT_read_format_bgra
+[00:00:04]: GL_EXT_robustness
+[00:00:04]: GL_EXT_texture_compression_dxt1
+[00:00:04]: GL_EXT_texture_format_BGRA8888
+[00:00:04]: GL_EXT_texture_storage
+[00:00:04]: GL_OES_get_program_binary
+[00:00:04]: GL_OES_packed_depth_stencil
+[00:00:04]: GL_OES_rgb8_rgba8
+[00:00:04]: GL_OES_standard_derivatives
+[00:00:04]: GL_OES_texture_npot
+[00:00:04]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:04]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:04]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:04]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:04]: GL_MAX_VARYING_VECTORS = 10
+[00:00:04]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:04]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:04]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:04]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:04]: 4 compressed texture formats
+[00:00:04]: texture format 0x83f0
+[00:00:04]: texture format 0x83f1
+[00:00:04]: texture format 0x83f2
+[00:00:04]: texture format 0x83f3
+[00:00:06]: Renderer initialize: Okay
+[00:00:06]: AnimManager initialize: Okay
+[00:00:06]: Buffers initialize: Okay
+[00:00:06]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:06]: GameSpecific initialize: Okay
+[00:00:06]: cGame::StartPlaying
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:07]:   taskgrouplist:	default	Together	
+[00:00:07]:   taskgrouplist:	classic	Classic	
+[00:00:07]:   taskgrouplist:	cave_default	Underground	
+[00:00:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:07]: running main.lua
+	
+[00:00:07]: loaded modindex	
+[00:00:07]: ModIndex: Beginning normal load sequence.
+	
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: PlayerDeaths loaded morgue	6146	
+[00:00:10]: PlayerHistory loaded player_history (v2) len:212	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Klump load on boot started.	
+[00:00:10]: Klump files loaded: 	0	
+[00:00:11]: 	Load FE	
+[00:00:15]: CURL ERROR: (metric.kleientertainment.com) Failed to connect to metric.kleientertainment.com port 443: Timed out
+[00:00:15]: CURL ERROR: (metric.kleientertainment.com) Failed to connect to metric.kleientertainment.com port 443: Timed out
+[00:00:21]: 	Load FE: done	
+[00:00:21]: THREAD - started 'FilesExistAsyncThread' (14164)
+[00:00:21]: FilesExistAsyncThread started (16739 files)...
+[00:00:21]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:21]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:21]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:21]: ModIndex: Load sequence finished successfully.	
+[00:00:21]: Reset() returning
+[00:00:25]: ... FilesExistAsyncThread complete
+[00:00:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:25]: Collecting garbage...
+[00:00:25]: lua_gc took 0.02 seconds
+[00:00:25]: ~ShardLuaProxy()
+[00:00:25]: ~cEventLeaderboardProxy()
+[00:00:25]: ~ItemServerLuaProxy()
+[00:00:25]: ~InventoryLuaProxy()
+[00:00:25]: ~NetworkLuaProxy()
+[00:00:25]: ~SimLuaProxy()
+[00:00:25]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:26]: lua_close took 0.03 seconds
+[00:00:26]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[00:00:26]: CurlRequestManager::ClientThread::Main() complete
+[00:00:26]: HttpClient2 discarded 0 callbacks.
+[00:00:26]: Shutting down
