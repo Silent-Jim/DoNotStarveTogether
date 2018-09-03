@@ -1,5 +1,5 @@
 KLEI     1 return {
-  last_used_slot=3,
+  last_used_slot=2,
   slots={
     {
       enabled_mods={  },
