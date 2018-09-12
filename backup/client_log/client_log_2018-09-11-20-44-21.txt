@@ -1,0 +1,2102 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 53%
+	Available Physical Memory: 3782m/8081m
+	Available Page File: 6258m/12443m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 32m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 266k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 7m
+	Peak Page File Usage: 7m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Mon Sep 10 21:32:50 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 3001093
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (16784)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:8.48
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:01]: [Warning] Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is not setup in the firewall.
+[00:00:01]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is now enabled in the firewall.
+[00:00:01]: THREAD - started 'StreamInput' (14416)
+[00:00:01]: loaded ping_cache
+[00:00:01]: Offline user ID: OU_76561198322581862
+[00:00:01]: SteamID: 76561198322581862
+[00:00:01]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: WindowManager::Initialize
+[00:00:01]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:01]: CreateEGLContext: 16 configs found
+[00:00:01]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:01]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:01]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:01]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:01]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:01]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:01]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:01]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:01]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:01]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:01]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:01]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:01]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:01]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:01]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:01]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:01]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:01]: GLInfo
+[00:00:01]: ~~~~~~
+[00:00:01]: GL_VENDOR: Google Inc.
+[00:00:01]: GL_RENDERER: ANGLE (Intel(R) HD Graphics 530)
+[00:00:01]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:01]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:01]: THREAD - started 'WindowsInputManager' (12744)
+[00:00:01]: OpenGL extensions (19, 19):
+[00:00:01]: GL_ANGLE_depth_texture
+[00:00:01]: GL_ANGLE_framebuffer_blit
+[00:00:01]: GL_ANGLE_framebuffer_multisample
+[00:00:01]: GL_ANGLE_instanced_arrays
+[00:00:01]: GL_ANGLE_pack_reverse_row_order
+[00:00:01]: GL_ANGLE_texture_compression_dxt3
+[00:00:01]: GL_ANGLE_texture_compression_dxt5
+[00:00:01]: GL_ANGLE_texture_usage
+[00:00:01]: GL_ANGLE_translated_shader_source
+[00:00:01]: GL_EXT_read_format_bgra
+[00:00:01]: GL_EXT_robustness
+[00:00:01]: GL_EXT_texture_compression_dxt1
+[00:00:01]: GL_EXT_texture_format_BGRA8888
+[00:00:01]: GL_EXT_texture_storage
+[00:00:01]: GL_OES_get_program_binary
+[00:00:01]: GL_OES_packed_depth_stencil
+[00:00:01]: GL_OES_rgb8_rgba8
+[00:00:01]: GL_OES_standard_derivatives
+[00:00:01]: GL_OES_texture_npot
+[00:00:01]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:01]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:01]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:01]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:01]: GL_MAX_VARYING_VECTORS = 10
+[00:00:01]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:01]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:01]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:01]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:01]: 4 compressed texture formats
+[00:00:01]: texture format 0x83f0
+[00:00:01]: texture format 0x83f1
+[00:00:01]: texture format 0x83f2
+[00:00:01]: texture format 0x83f3
+[00:00:02]: Renderer initialize: Okay
+[00:00:02]: Failed to communicate with routing cluster 'jnb'.
+[00:00:02]: AnimManager initialize: Okay
+[00:00:03]: Buffers initialize: Okay
+[00:00:03]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:03]: GameSpecific initialize: Okay
+[00:00:03]: cGame::StartPlaying
+[00:00:03]: LOADING LUA
+[00:00:03]: DoLuaFile scripts/main.lua
+[00:00:03]: DoLuaFile loading buffer scripts/main.lua
+[00:00:03]: Communications with routing cluster 'jnb' established.
+[00:00:03]:   taskgrouplist:	default	Together	
+[00:00:03]:   taskgrouplist:	classic	Classic	
+[00:00:03]:   taskgrouplist:	cave_default	Underground	
+[00:00:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:03]: running main.lua
+	
+[00:00:03]: loaded modindex	
+[00:00:03]: ModIndex: Beginning normal load sequence.
+	
+[00:00:03]: Ping measurement completed
+[00:00:03]: Ping location: tyo=177+17,hkg=190+19,sgp=282+28/225+19,lax=225+22,okc=226+22,man=234+23,sea=240+24,ord=285+28/242+22,mwh=277+27/246+24,iad=346+34/258+22,fra=462+46/353+22,gru=384+38/383+22
+[00:00:07]: LOADING LUA SUCCESS
+[00:00:07]: PlayerDeaths loaded morgue	6297	
+[00:00:07]: PlayerHistory loaded player_history (v2) len:212	
+[00:00:07]: bloom_enabled	false	
+[00:00:07]: loaded saveindex	
+[00:00:07]: OnFilesLoaded()	
+[00:00:07]: OnUpdatePurchaseStateComplete	
+[00:00:07]: Klump load on boot started.	
+[00:00:07]: Klump files loaded: 	0	
+[00:00:09]: 	Load FE	
+[00:00:13]: 	Load FE: done	
+[00:00:13]: THREAD - started 'FilesExistAsyncThread' (1664)
+[00:00:13]: FilesExistAsyncThread started (16739 files)...
+[00:00:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:13]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:13]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:13]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: Reset() returning
+[00:00:19]: ... FilesExistAsyncThread complete
+[00:00:52]: [Steam] Auth Session Ticket requested...
+[00:00:53]: [Steam] Got Auth Session Ticket
+[00:00:56]: [200] Account Communication Success (3)
+[00:00:56]: Logging in as KU_J9MSQIOb
+[00:01:02]: saved APP:Klei//DoNotStarveTogether/client_save/pricing_cache
+[00:01:02]: There is no active event to get the status of.
+[00:01:02]: loaded inventory_cache_prod
+[00:01:03]: loaded inventory_cache_prod
+[00:01:03]: SimLuaProxy::QueryServer()
+[00:01:30]: Getting top mod details...
+[00:01:30]: Frontend-Unloading mod 'all'.	
+[00:01:31]: GOT top mod details...50
+[00:01:36]: Frontend-Unloading mod 'all'.	
+[00:01:41]: GetGameModeMaxPlayers	endless	nil	
+[00:01:41]: Network tick rate: U=15(2), D=0
+[00:01:41]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:41]: About to start a server with the following settings:
+[00:01:41]:   Dedicated: false
+[00:01:41]:   Online: true
+[00:01:41]:   Passworded: false
+[00:01:41]:   ServerPort: 10999
+[00:01:41]:   SteamAuthPort: 8766
+[00:01:41]:   SteamMasterServerPort: 27016
+[00:01:41]:   ClanID: false
+[00:01:41]:   ClanOnly: false
+[00:01:41]:   ClanAdmin: false
+[00:01:41]:   LanOnly: false
+[00:01:41]:   FriendsOnly: true
+[00:01:41]:   EnableAutosaver: true
+[00:01:41]:   EncodeUserPath: true
+[00:01:41]:   PVP: true
+[00:01:41]:   MaxPlayers: 6
+[00:01:41]:   GameMode: endless
+[00:01:41]:   OverridenDNS: 
+[00:01:41]:   PauseWhenEmpty: true
+[00:01:41]:   IdleTimeout: 1800s
+[00:01:41]:   VoteEnabled: false
+[00:01:41]:   InternetBroadcasting: true
+[00:01:41]:   Intent: cooperative
+[00:01:41]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:01:41]: Online Server Started on port: 10999
+[00:01:41]: Collecting garbage...
+[00:01:41]: lua_gc took 0.02 seconds
+[00:01:41]: ~ShardLuaProxy()
+[00:01:41]: ~cEventLeaderboardProxy()
+[00:01:41]: ~ItemServerLuaProxy()
+[00:01:41]: ~InventoryLuaProxy()
+[00:01:41]: ~NetworkLuaProxy()
+[00:01:41]: ~SimLuaProxy()
+[00:01:41]: Cancelling LuaQueryCallback handle [6]
+[00:01:41]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:01:41]: lua_close took 0.04 seconds
+[00:01:41]: ReleaseAll
+[00:01:41]: ReleaseAll Finished
+[00:01:41]: cGame::StartPlaying
+[00:01:41]: LOADING LUA
+[00:01:41]: DoLuaFile scripts/main.lua
+[00:01:41]: DoLuaFile loading buffer scripts/main.lua
+[00:01:41]:   taskgrouplist:	default	Together	
+[00:01:41]:   taskgrouplist:	classic	Classic	
+[00:01:41]:   taskgrouplist:	cave_default	Underground	
+[00:01:41]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:01:41]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:01:41]: running main.lua
+	
+[00:01:41]: loaded modindex	
+[00:01:41]: ModIndex: Beginning normal load sequence.
+	
+[00:01:41]: LOADING LUA SUCCESS
+[00:01:42]: PlayerDeaths loaded morgue	6297	
+[00:01:42]: PlayerHistory loaded player_history (v2) len:212	
+[00:01:42]: bloom_enabled	false	
+[00:01:42]: loaded saveindex	
+[00:01:42]: OnFilesLoaded()	
+[00:01:42]: OnUpdatePurchaseStateComplete	
+[00:01:42]: Loading world: session/6EED019C36C035A2/0000000211	
+[00:01:42]: Save file is at version 4.77	
+[00:01:42]: Klump load on boot started.	
+[00:01:42]: Klump files loaded: 	0	
+[00:01:42]: 	Unload FE	
+[00:01:42]: 	Unload FE done	
+[00:01:43]: 	LOAD BE	
+[00:02:04]: 	LOAD BE: done	
+[00:02:04]: Begin Session: 6EED019C36C035A2
+[00:02:04]: saving to server_temp/server_save	
+[00:02:04]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:02:04]: Loading 12 new character(s)	
+[00:02:08]: Total 12 character(s) loaded	
+[00:02:08]: Loading Nav Grid	
+[00:02:08]: setting 	summerlength	15	
+[00:02:08]: setting 	isnightmaredawn	false	
+[00:02:08]: setting 	elapseddaysinseason	12	
+[00:02:08]: setting 	isfullmoon	false	
+[00:02:08]: setting 	moisture	6979.1513671875	
+[00:02:08]: setting 	springlength	20	
+[00:02:08]: setting 	isnightmarewild	false	
+[00:02:08]: setting 	moonphase	threequarter	
+[00:02:08]: setting 	precipitationrate	0	
+[00:02:08]: setting 	iswet	false	
+[00:02:08]: setting 	isnewmoon	false	
+[00:02:08]: setting 	iswinter	false	
+[00:02:08]: setting 	israining	false	
+[00:02:08]: setting 	isnightmarewarn	false	
+[00:02:08]: setting 	precipitation	none	
+[00:02:08]: setting 	cavephase	day	
+[00:02:08]: setting 	moistureceil	11986.201171875	
+[00:02:08]: setting 	isday	true	
+[00:02:08]: setting 	iscaveday	true	
+[00:02:08]: setting 	season	autumn	
+[00:02:08]: setting 	timeinphase	0.72472657097711	
+[00:02:08]: setting 	temperature	28.576298629771	
+[00:02:08]: setting 	isnightmarecalm	false	
+[00:02:08]: setting 	isnight	false	
+[00:02:08]: setting 	isdusk	false	
+[00:02:08]: setting 	iscavedusk	false	
+[00:02:08]: setting 	isautumn	true	
+[00:02:08]: setting 	issnowing	false	
+[00:02:08]: setting 	iswaxingmoon	false	
+[00:02:08]: setting 	pop	0.44159798095159	
+[00:02:08]: setting 	snowlevel	0	
+[00:02:08]: setting 	issnowcovered	false	
+[00:02:08]: setting 	autumnlength	20	
+[00:02:08]: setting 	phase	day	
+[00:02:08]: setting 	nightmaretime	0	
+[00:02:08]: setting 	winterlength	5	
+[00:02:08]: setting 	isspring	false	
+[00:02:08]: setting 	nightmarephase	none	
+[00:02:08]: setting 	remainingdaysinseason	8	
+[00:02:08]: setting 	cycles	192	
+[00:02:08]: setting 	iscavenight	false	
+[00:02:08]: setting 	nightmaretimeinphase	0	
+[00:02:08]: setting 	wetness	0	
+[00:02:08]: setting 	time	0.54354492823283	
+[00:02:08]: setting 	issummer	false	
+[00:02:08]: OVERRIDE: setting	day	to	longday	
+[00:02:12]: Reconstructing topology	
+[00:02:12]: 	...Sorting points	
+[00:02:12]: 	...Sorting edges	
+[00:02:12]: 	...Connecting nodes	
+[00:02:12]: 	...Validating connections	
+[00:02:13]: 	...Housekeeping	
+[00:02:13]: 	...Done!	
+[00:02:13]: 1 uploads added to server. From server_temp
+[00:02:13]: Telling Client our new session identifier: 6EED019C36C035A2
+[00:02:13]: ModIndex: Load sequence finished successfully.	
+[00:02:13]: Reset() returning
+[00:02:14]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:02:14]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:02:14]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:02:14]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:02:14]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:02:14]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:02:14]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:02:14]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:02:14]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:02:14]: Attempting to send resume request
+[00:02:14]: Resuming user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000211
+[00:02:15]: Spawning player at: [Load] (213.45, 0.00, 145.05)	
+[00:02:15]: ReceiveResumeNotification
+[00:02:15]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:02:15]: Deserializing tile data (425 x 425)
+[00:02:46]: [P2P] Session request for '76561198404125141'
+[00:02:50]: [P2P] Create session: 72.33.230.186|1 '76561198404125141'
+[00:02:50]: [P2P] Received from 72.33.230.186|1 '76561198404125141'
+[00:02:50]: [P2P] Sent to 72.33.230.186|1 '76561198404125141'
+[00:02:50]: New incoming connection 72.33.230.186|1 <635961248861094888>
+[00:02:50]: Client connected from 72.33.230.186|1 <635961248861094888>
+[00:02:50]: ValidateGameSessionToken pgs-sing^KU_UrT0UCGI^DontStarveTogether^wyPJifslaRaoBz6rNUJ08GA4U0lf/2kWO2NxDTeyjog= for <635961248861094888>
+[00:02:52]: Client authenticated: (KU_UrT0UCGI) dwcyr
+[00:02:54]: There is no active event to validate against.
+[00:03:01]: Resuming user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000207
+[00:03:01]: Spawning player at: [Load] (228.51, -0.00, 213.37)	
+[00:04:47]: giving 	118264 - lightbulb	
+[00:04:47]: giving 	118272 - lightbulb	
+[00:04:47]: giving 	118274 - lightbulb	
+[00:04:47]: giving 	118276 - lightbulb	
+[00:04:47]: giving 	118278 - lightbulb	
+[00:04:47]: giving 	118280 - lightbulb	
+[00:04:47]: giving 	118282 - lightbulb	
+[00:04:47]: giving 	118284 - lightbulb	
+[00:04:47]: giving 	118286 - lightbulb	
+[00:04:47]: giving 	118288 - lightbulb	
+[00:05:56]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000212
+[00:05:56]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000212
+[00:05:56]: Serializing world: session/6EED019C36C035A2/0000000212
+[00:10:59]: giving 	120194 - lifeinjector	
+[00:10:59]: giving 	120200 - lifeinjector	
+[00:13:43]: giving 	120604 - lightbulb	
+[00:13:43]: giving 	120612 - lightbulb	
+[00:13:43]: giving 	120614 - lightbulb	
+[00:13:43]: giving 	120616 - lightbulb	
+[00:13:43]: giving 	120618 - lightbulb	
+[00:13:56]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000213
+[00:13:56]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000213
+[00:13:56]: Serializing world: session/6EED019C36C035A2/0000000213
+[00:14:32]: giving 	120971 - fish	
+[00:14:32]: giving 	120973 - fish	
+[00:14:32]: giving 	120975 - fish	
+[00:14:53]: giving 	121036 - fishsticks	
+[00:14:53]: giving 	121044 - fishsticks	
+[00:14:53]: giving 	121046 - fishsticks	
+[00:16:12]: giving 	122035 - carrot	
+[00:16:12]: giving 	122043 - carrot	
+[00:16:12]: giving 	122045 - carrot	
+[00:16:29]: giving 	122126 - carrot	
+[00:16:29]: giving 	122128 - carrot	
+[00:16:29]: giving 	122130 - carrot	
+[00:16:29]: giving 	122132 - carrot	
+[00:16:29]: giving 	122134 - carrot	
+[00:21:57]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000214
+[00:21:57]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000214
+[00:21:57]: Serializing world: session/6EED019C36C035A2/0000000214
+[00:24:12]: giving 	124623 - fishsticks	
+[00:24:12]: giving 	124631 - fishsticks	
+[00:24:12]: giving 	124633 - fishsticks	
+[00:24:12]: giving 	124635 - fishsticks	
+[00:24:12]: giving 	124637 - fishsticks	
+[00:27:07]: Could not find anim [death] in bank [ghost]
+[00:27:07]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000215
+[00:27:17]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[00:27:42]: Could not find anim [idle_loop] in bank [ghost]
+[00:27:45]: Could not find anim [transform] in bank [wilson]
+[00:27:46]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000215
+[00:29:57]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000215
+[00:29:57]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000215
+[00:29:57]: Serializing world: session/6EED019C36C035A2/0000000215
+[00:30:02]: [200] Account Communication Success (6)
+[00:30:02]: Received (KU_J9MSQIOb) from TokenPurpose
+[00:32:27]: Could not find anim [death] in bank [ghost]
+[00:32:27]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:32:31]: Could not find anim [death] in bank [ghost]
+[00:32:31]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:32:31]: SAVING Morgue	39	
+[00:34:41]: Could not find anim [idle_loop] in bank [ghost]
+[00:34:43]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:35:54]: Could not find anim [idle_loop] in bank [ghost]
+[00:35:57]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:37:31]: giving 	129186 - lighter	
+[00:37:36]: Could not find anim [death] in bank [ghost]
+[00:37:36]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:37:55]: KU_J9MSQIOb	running command:	rollback	false	
+[00:37:56]: Building a command without enough arguments!	
+[00:37:56]: KU_J9MSQIOb	running text command:	rollback	true	
+[00:37:57]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:37:57]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:37:58]: Serializing world: session/6EED019C36C035A2/0000000216
+[00:38:02]: Received world rollback request: count=1	
+[00:38:02]: Truncating to snapshot #215...
+[00:38:02]:  - session/6EED019C36C035A2/0000000206
+[00:38:02]:  - session/6EED019C36C035A2/0000000207
+[00:38:02]:  - session/6EED019C36C035A2/0000000208
+[00:38:02]:  - session/6EED019C36C035A2/0000000209
+[00:38:02]:  - session/6EED019C36C035A2/0000000210
+[00:38:02]:  - session/6EED019C36C035A2/0000000216
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000210
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000209
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000208
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000207
+[00:38:02]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000206
+[00:38:02]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:38:02]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000206
+[00:38:02]:    14 file(s) removed
+[00:38:02]: Collecting garbage...
+[00:38:02]: lua_gc took 0.13 seconds
+[00:38:02]: ~ShardLuaProxy()
+[00:38:02]: ~cEventLeaderboardProxy()
+[00:38:02]: ~ItemServerLuaProxy()
+[00:38:02]: ~InventoryLuaProxy()
+[00:38:02]: ~NetworkLuaProxy()
+[00:38:02]: ~SimLuaProxy()
+[00:38:02]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:38:03]: lua_close took 0.32 seconds
+[00:38:03]: ReleaseAll
+[00:38:03]: ReleaseAll Finished
+[00:38:03]: cGame::StartPlaying
+[00:38:03]: LOADING LUA
+[00:38:03]: DoLuaFile scripts/main.lua
+[00:38:03]: DoLuaFile loading buffer scripts/main.lua
+[00:38:03]:   taskgrouplist:	default	Together	
+[00:38:03]:   taskgrouplist:	classic	Classic	
+[00:38:03]:   taskgrouplist:	cave_default	Underground	
+[00:38:03]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:38:03]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:38:03]: running main.lua
+	
+[00:38:03]: loaded modindex	
+[00:38:03]: ModIndex: Beginning normal load sequence.
+	
+[00:38:03]: LOADING LUA SUCCESS
+[00:38:03]: PlayerDeaths loaded morgue	6155	
+[00:38:03]: PlayerHistory loaded player_history (v2) len:212	
+[00:38:03]: bloom_enabled	false	
+[00:38:03]: loaded saveindex	
+[00:38:03]: OnFilesLoaded()	
+[00:38:03]: OnUpdatePurchaseStateComplete	
+[00:38:03]: Loading world: session/6EED019C36C035A2/0000000215	
+[00:38:03]: Save file is at version 4.77	
+[00:38:03]: Klump load on boot started.	
+[00:38:03]: Klump files loaded: 	0	
+[00:38:03]: 	Unload characters	
+[00:38:03]: 	BE assets already loaded	
+[00:38:05]: Begin Session: 6EED019C36C035A2
+[00:38:05]: Stomping previously assigned session identifier, two loads issued.
+[00:38:05]: saving to server_temp/server_save	
+[00:38:05]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:38:05]: Loading 12 new character(s)	
+[00:38:07]: Total 12 character(s) loaded	
+[00:38:07]: Loading Nav Grid	
+[00:38:07]: setting 	summerlength	15	
+[00:38:07]: setting 	isnightmaredawn	false	
+[00:38:07]: setting 	elapseddaysinseason	16	
+[00:38:07]: setting 	isfullmoon	false	
+[00:38:07]: setting 	moisture	7620.451171875	
+[00:38:07]: setting 	springlength	20	
+[00:38:07]: setting 	isnightmarewild	false	
+[00:38:07]: setting 	moonphase	half	
+[00:38:07]: setting 	precipitationrate	0	
+[00:38:07]: setting 	iswet	false	
+[00:38:07]: setting 	isnewmoon	false	
+[00:38:07]: setting 	iswinter	false	
+[00:38:07]: setting 	israining	false	
+[00:38:07]: setting 	isnightmarewarn	false	
+[00:38:07]: setting 	precipitation	none	
+[00:38:07]: setting 	cavephase	day	
+[00:38:07]: setting 	moistureceil	11986.201171875	
+[00:38:07]: setting 	isday	true	
+[00:38:07]: setting 	iscaveday	true	
+[00:38:07]: setting 	season	autumn	
+[00:38:07]: setting 	timeinphase	0.0030201305042613	
+[00:38:07]: setting 	temperature	13.877449600822	
+[00:38:07]: setting 	isnightmarecalm	false	
+[00:38:07]: setting 	isnight	false	
+[00:38:07]: setting 	isdusk	false	
+[00:38:07]: setting 	iscavedusk	false	
+[00:38:07]: setting 	isautumn	true	
+[00:38:07]: setting 	issnowing	false	
+[00:38:07]: setting 	iswaxingmoon	false	
+[00:38:07]: setting 	pop	0.51311776200462	
+[00:38:07]: setting 	snowlevel	0	
+[00:38:07]: setting 	issnowcovered	false	
+[00:38:07]: setting 	autumnlength	20	
+[00:38:07]: setting 	phase	day	
+[00:38:07]: setting 	nightmaretime	0	
+[00:38:07]: setting 	winterlength	5	
+[00:38:07]: setting 	isspring	false	
+[00:38:07]: setting 	nightmarephase	none	
+[00:38:07]: setting 	remainingdaysinseason	4	
+[00:38:07]: setting 	cycles	196	
+[00:38:07]: setting 	iscavenight	false	
+[00:38:07]: setting 	nightmaretimeinphase	0	
+[00:38:07]: setting 	wetness	0	
+[00:38:07]: setting 	time	0.0020763397216797	
+[00:38:07]: setting 	issummer	false	
+[00:38:07]: OVERRIDE: setting	day	to	longday	
+[00:38:13]: Reconstructing topology	
+[00:38:13]: 	...Sorting points	
+[00:38:13]: 	...Sorting edges	
+[00:38:13]: 	...Connecting nodes	
+[00:38:13]: 	...Validating connections	
+[00:38:13]: 	...Housekeeping	
+[00:38:13]: 	...Done!	
+[00:38:13]: Restoring user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000215	
+[00:38:13]: Restoring user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000215	
+[00:38:13]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:38:13]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:38:13]: 1 uploads added to server. From server_temp
+[00:38:13]: Telling Client our new session identifier: 6EED019C36C035A2
+[00:38:13]: ModIndex: Load sequence finished successfully.	
+[00:38:13]: Reset() returning
+[00:38:15]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:38:15]: Attempting to send resume request
+[00:38:15]: Resuming user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:38:15]: Spawning player at: [Load] (141.18, -0.00, -258.14)	
+[00:38:15]: ReceiveResumeNotification
+[00:38:15]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:38:15]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:38:15]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:38:15]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:38:15]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:38:15]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:38:15]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:38:15]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:38:15]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:38:15]: Deserializing tile data (425 x 425)
+[00:38:19]: Resuming user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:38:19]: Spawning player at: [Load] (138.96, -0.00, -264.50)	
+[00:42:47]: giving 	118639 - boomerang	
+[00:43:07]: giving 	118719 - boomerang	
+[00:43:13]: giving 	118749 - boomerang	
+[00:43:26]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[00:46:02]: Could not find anim [death] in bank [ghost]
+[00:46:02]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:46:15]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000216
+[00:46:15]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000216
+[00:46:15]: Serializing world: session/6EED019C36C035A2/0000000216
+[00:46:25]: DoRestart:	true	
+[00:46:27]: Serializing user: session/6EED019C36C035A2/A7ICIME6I9H5/0000000217
+[00:46:27]: Serializing user: session/6EED019C36C035A2/A7JRAT07HH0I/0000000217
+[00:46:27]: Serializing world: session/6EED019C36C035A2/0000000217
+[00:46:27]: Truncating to snapshot #217...
+[00:46:27]:  - session/6EED019C36C035A2/0000000211
+[00:46:27]:  - session/6EED019C36C035A2/A7ICIME6I9H5/0000000211
+[00:46:27]:  - session/6EED019C36C035A2/A7JRAT07HH0I/0000000207
+[00:46:27]:    3 file(s) removed
+[00:46:27]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:46:27]: Collecting garbage...
+[00:46:28]: lua_gc took 0.18 seconds
+[00:46:28]: ~ShardLuaProxy()
+[00:46:28]: ~cEventLeaderboardProxy()
+[00:46:28]: ~ItemServerLuaProxy()
+[00:46:28]: ~InventoryLuaProxy()
+[00:46:28]: ~NetworkLuaProxy()
+[00:46:28]: ~SimLuaProxy()
+[00:46:28]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:46:28]: lua_close took 0.33 seconds
+[00:46:28]: ReleaseAll
+[00:46:28]: ReleaseAll Finished
+[00:46:28]: cGame::StartPlaying
+[00:46:28]: LOADING LUA
+[00:46:28]: DoLuaFile scripts/main.lua
+[00:46:28]: DoLuaFile loading buffer scripts/main.lua
+[00:46:28]:   taskgrouplist:	default	Together	
+[00:46:28]:   taskgrouplist:	classic	Classic	
+[00:46:28]:   taskgrouplist:	cave_default	Underground	
+[00:46:28]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:46:28]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:46:28]: running main.lua
+	
+[00:46:28]: loaded modindex	
+[00:46:28]: ModIndex: Beginning normal load sequence.
+	
+[00:46:28]: LOADING LUA SUCCESS
+[00:46:28]: PlayerDeaths loaded morgue	6155	
+[00:46:28]: PlayerHistory loaded player_history (v2) len:212	
+[00:46:28]: bloom_enabled	false	
+[00:46:28]: loaded saveindex	
+[00:46:28]: OnFilesLoaded()	
+[00:46:28]: OnUpdatePurchaseStateComplete	
+[00:46:28]: Klump load on boot started.	
+[00:46:28]: Klump files loaded: 	0	
+[00:46:28]: 	Unload characters	
+[00:46:28]: 	Unload BE	
+[00:46:28]: 	Unload BE done	
+[00:46:30]: 	Load FE	
+[00:46:31]: 	Load FE: done	
+[00:46:31]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:46:31]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:46:31]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:46:31]: ModIndex: Load sequence finished successfully.	
+[00:46:31]: Reset() returning
+[00:46:31]: Successfully removed server listing
+[00:46:34]: [200] Account Communication Success (6)
+[00:46:34]: Received (KU_J9MSQIOb) from TokenPurpose
+[00:46:34]: [Steam] Auth Session Ticket requested...
+[00:46:35]: [Steam] Got Auth Session Ticket
+[00:46:38]: saved APP:Klei//DoNotStarveTogether/client_save/pricing_cache
+[00:46:38]: There is no active event to get the status of.
+[00:46:38]: loaded inventory_cache_prod
+[00:46:40]: loaded inventory_cache_prod
+[00:46:40]: SimLuaProxy::QueryServer()
+[00:46:46]: Getting top mod details...
+[00:46:46]: Frontend-Unloading mod 'all'.	
+[00:46:47]: Friends are currently playing in 0 games(s)!
+[00:46:47]: You belong to 3 clan(s)!
+[00:46:47]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:46:47]: Downloaded server listings - full: 5097 filtered: 2315
+[00:46:50]: Frontend-Unloading mod 'all'.	
+[00:47:09]: [P2P] Connection failed for '76561198404125141'
+[00:49:46]: GetGameModeMaxPlayers	endless	nil	
+[00:49:46]: Not applying level data overrides.	
+[00:49:46]: Not applying world gen overrides.	
+[00:49:46]: Network tick rate: U=15(2), D=0
+[00:49:46]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:49:46]: About to start a server with the following settings:
+[00:49:46]:   Dedicated: false
+[00:49:46]:   Online: true
+[00:49:46]:   Passworded: false
+[00:49:46]:   ServerPort: 10999
+[00:49:46]:   SteamAuthPort: 8766
+[00:49:46]:   SteamMasterServerPort: 27016
+[00:49:46]:   ClanID: false
+[00:49:46]:   ClanOnly: false
+[00:49:46]:   ClanAdmin: false
+[00:49:46]:   LanOnly: false
+[00:49:46]:   FriendsOnly: true
+[00:49:46]:   EnableAutosaver: true
+[00:49:46]:   EncodeUserPath: true
+[00:49:46]:   PVP: true
+[00:49:46]:   MaxPlayers: 6
+[00:49:46]:   GameMode: endless
+[00:49:46]:   OverridenDNS: 
+[00:49:46]:   PauseWhenEmpty: true
+[00:49:46]:   IdleTimeout: 1800s
+[00:49:46]:   VoteEnabled: false
+[00:49:46]:   InternetBroadcasting: true
+[00:49:46]:   Intent: cooperative
+[00:49:46]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:49:46]: Online Server Started on port: 10999
+[00:49:46]: Collecting garbage...
+[00:49:46]: lua_gc took 0.03 seconds
+[00:49:46]: ~ShardLuaProxy()
+[00:49:46]: ~cEventLeaderboardProxy()
+[00:49:46]: ~ItemServerLuaProxy()
+[00:49:46]: ~InventoryLuaProxy()
+[00:49:46]: ~NetworkLuaProxy()
+[00:49:46]: ~SimLuaProxy()
+[00:49:46]: Cancelling LuaQueryCallback handle [43]
+[00:49:46]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:49:46]: lua_close took 0.04 seconds
+[00:49:46]: ReleaseAll
+[00:49:46]: ReleaseAll Finished
+[00:49:46]: cGame::StartPlaying
+[00:49:46]: LOADING LUA
+[00:49:46]: DoLuaFile scripts/main.lua
+[00:49:46]: DoLuaFile loading buffer scripts/main.lua
+[00:49:46]:   taskgrouplist:	default	Together	
+[00:49:46]:   taskgrouplist:	classic	Classic	
+[00:49:46]:   taskgrouplist:	cave_default	Underground	
+[00:49:46]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:49:46]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:49:46]: running main.lua
+	
+[00:49:46]: loaded modindex	
+[00:49:46]: ModIndex: Beginning normal load sequence.
+	
+[00:49:47]: LOADING LUA SUCCESS
+[00:49:47]: PlayerDeaths loaded morgue	6155	
+[00:49:47]: PlayerHistory loaded player_history (v2) len:212	
+[00:49:47]: bloom_enabled	false	
+[00:49:47]: loaded saveindex	
+[00:49:47]: OnFilesLoaded()	
+[00:49:47]: OnUpdatePurchaseStateComplete	
+[00:49:47]: Load Slot: ... generating new world	
+[00:49:47]: WorldSim::SimThread::SimThread()
+[00:49:47]: ABOUT TO INSTALL STACKTRACE
+[00:49:47]: DoLuaFile scripts/stacktrace.lua
+[00:49:47]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:49:47]: INSTALLED STACKTRACE
+[00:49:47]: WorldSim::SimThread::SimThread() complete
+[00:49:47]: THREAD - started 'WorldSim' (5768)
+[00:49:47]: WorldSim::SimThread::Main()
+[00:49:47]: DoLuaFile scripts/worldgen_main.lua
+[00:49:47]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:49:47]: ModIndex: Load sequence finished successfully.	
+[00:49:47]: Reset() returning
+[00:49:47]: DLC enabled : 	false	
+[00:49:47]:   taskgrouplist:	default	Together	
+[00:49:47]:   taskgrouplist:	classic	Classic	
+[00:49:47]:   taskgrouplist:	cave_default	Underground	
+[00:49:47]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:49:47]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:49:47]: running worldgen_main.lua
+	
+[00:49:47]: SEED = 	1536589357	
+[00:49:47]: Generating world with these parameters:	
+[00:49:47]: level_type	SURVIVAL	
+[00:49:47]: level_data:	
+[00:49:47]: 	K: 	1	 V: 	table: 13505A08	
+[00:49:47]: 		K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:49:47]: 		K: 	hideminimap	 V: 	false	
+[00:49:47]: 		K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:49:47]: 		K: 	location	 V: 	forest	
+[00:49:47]: 		K: 	max_playlist_position	 V: 	999	
+[00:49:47]: 		K: 	min_playlist_position	 V: 	0	
+[00:49:47]: 		K: 	name	 V: 	Default	
+[00:49:47]: 		K: 	numrandom_set_pieces	 V: 	4	
+[00:49:47]: 		K: 	ordered_story_setpieces	 V: 	table: 13505BC0	
+[00:49:47]: 			K: 	1	 V: 	Sculptures_1	
+[00:49:47]: 			K: 	2	 V: 	Maxwell5	
+[00:49:47]: 		K: 	override_level_string	 V: 	false	
+[00:49:47]: 		K: 	overrides	 V: 	table: 13505DC8	
+[00:49:47]: 			K: 	alternatehunt	 V: 	default	
+[00:49:47]: 			K: 	angrybees	 V: 	default	
+[00:49:47]: 			K: 	antliontribute	 V: 	default	
+[00:49:47]: 			K: 	autumn	 V: 	default	
+[00:49:47]: 			K: 	bearger	 V: 	default	
+[00:49:47]: 			K: 	beefalo	 V: 	default	
+[00:49:47]: 			K: 	beefaloheat	 V: 	default	
+[00:49:47]: 			K: 	bees	 V: 	default	
+[00:49:47]: 			K: 	berrybush	 V: 	often	
+[00:49:47]: 			K: 	birds	 V: 	default	
+[00:49:47]: 			K: 	boons	 V: 	often	
+[00:49:47]: 			K: 	branching	 V: 	default	
+[00:49:47]: 			K: 	butterfly	 V: 	default	
+[00:49:47]: 			K: 	buzzard	 V: 	default	
+[00:49:47]: 			K: 	cactus	 V: 	default	
+[00:49:47]: 			K: 	carrot	 V: 	often	
+[00:49:47]: 			K: 	catcoon	 V: 	default	
+[00:49:47]: 			K: 	chess	 V: 	default	
+[00:49:47]: 			K: 	day	 V: 	longday	
+[00:49:47]: 			K: 	deciduousmonster	 V: 	default	
+[00:49:47]: 			K: 	deerclops	 V: 	default	
+[00:49:47]: 			K: 	disease_delay	 V: 	default	
+[00:49:47]: 			K: 	dragonfly	 V: 	default	
+[00:49:47]: 			K: 	flint	 V: 	default	
+[00:49:47]: 			K: 	flowers	 V: 	default	
+[00:49:47]: 			K: 	frograin	 V: 	default	
+[00:49:47]: 			K: 	goosemoose	 V: 	default	
+[00:49:47]: 			K: 	grass	 V: 	often	
+[00:49:47]: 			K: 	houndmound	 V: 	default	
+[00:49:47]: 			K: 	hounds	 V: 	default	
+[00:49:47]: 			K: 	hunt	 V: 	default	
+[00:49:47]: 			K: 	krampus	 V: 	default	
+[00:49:47]: 			K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:49:47]: 			K: 	liefs	 V: 	default	
+[00:49:47]: 			K: 	lightning	 V: 	default	
+[00:49:47]: 			K: 	lightninggoat	 V: 	default	
+[00:49:47]: 			K: 	loop	 V: 	default	
+[00:49:47]: 			K: 	lureplants	 V: 	default	
+[00:49:47]: 			K: 	marshbush	 V: 	default	
+[00:49:47]: 			K: 	merm	 V: 	default	
+[00:49:47]: 			K: 	meteorshowers	 V: 	default	
+[00:49:47]: 			K: 	meteorspawner	 V: 	default	
+[00:49:47]: 			K: 	moles	 V: 	default	
+[00:49:47]: 			K: 	mushroom	 V: 	default	
+[00:49:47]: 			K: 	penguins	 V: 	default	
+[00:49:47]: 			K: 	perd	 V: 	default	
+[00:49:47]: 			K: 	petrification	 V: 	default	
+[00:49:47]: 			K: 	pigs	 V: 	default	
+[00:49:47]: 			K: 	ponds	 V: 	default	
+[00:49:47]: 			K: 	prefabswaps_start	 V: 	default	
+[00:49:47]: 			K: 	rabbits	 V: 	often	
+[00:49:47]: 			K: 	reeds	 V: 	default	
+[00:49:47]: 			K: 	regrowth	 V: 	default	
+[00:49:47]: 			K: 	roads	 V: 	default	
+[00:49:47]: 			K: 	rock	 V: 	default	
+[00:49:47]: 			K: 	rock_ice	 V: 	default	
+[00:49:47]: 			K: 	sapling	 V: 	default	
+[00:49:47]: 			K: 	season_start	 V: 	default	
+[00:49:47]: 			K: 	specialevent	 V: 	default	
+[00:49:47]: 			K: 	spiders	 V: 	default	
+[00:49:47]: 			K: 	spring	 V: 	default	
+[00:49:47]: 			K: 	start_location	 V: 	default	
+[00:49:47]: 			K: 	summer	 V: 	shortseason	
+[00:49:47]: 			K: 	tallbirds	 V: 	default	
+[00:49:47]: 			K: 	task_set	 V: 	default	
+[00:49:47]: 			K: 	tentacles	 V: 	default	
+[00:49:47]: 			K: 	touchstone	 V: 	default	
+[00:49:47]: 			K: 	trees	 V: 	default	
+[00:49:47]: 			K: 	tumbleweed	 V: 	default	
+[00:49:47]: 			K: 	walrus	 V: 	default	
+[00:49:47]: 			K: 	weather	 V: 	default	
+[00:49:47]: 			K: 	wildfires	 V: 	default	
+[00:49:47]: 			K: 	winter	 V: 	shortseason	
+[00:49:47]: 			K: 	world_size	 V: 	default	
+[00:49:47]: 			K: 	wormhole_prefab	 V: 	wormhole	
+[00:49:47]: 		K: 	random_set_pieces	 V: 	table: 13505A30	
+[00:49:47]: 			K: 	1	 V: 	Sculptures_2	
+[00:49:47]: 			K: 	2	 V: 	Sculptures_3	
+[00:49:47]: 			K: 	3	 V: 	Sculptures_4	
+[00:49:47]: 			K: 	4	 V: 	Sculptures_5	
+[00:49:47]: 			K: 	5	 V: 	Chessy_1	
+[00:49:47]: 			K: 	6	 V: 	Chessy_2	
+[00:49:47]: 			K: 	7	 V: 	Chessy_3	
+[00:49:47]: 			K: 	8	 V: 	Chessy_4	
+[00:49:47]: 			K: 	9	 V: 	Chessy_5	
+[00:49:47]: 			K: 	10	 V: 	Chessy_6	
+[00:49:47]: 			K: 	11	 V: 	Maxwell1	
+[00:49:47]: 			K: 	12	 V: 	Maxwell2	
+[00:49:47]: 			K: 	13	 V: 	Maxwell3	
+[00:49:47]: 			K: 	14	 V: 	Maxwell4	
+[00:49:47]: 			K: 	15	 V: 	Maxwell6	
+[00:49:47]: 			K: 	16	 V: 	Maxwell7	
+[00:49:47]: 			K: 	17	 V: 	Warzone_1	
+[00:49:47]: 			K: 	18	 V: 	Warzone_2	
+[00:49:47]: 			K: 	19	 V: 	Warzone_3	
+[00:49:47]: 		K: 	required_prefabs	 V: 	table: 13505760	
+[00:49:47]: 			K: 	1	 V: 	multiplayer_portal	
+[00:49:47]: 		K: 	substitutes	 V: 	table: 13506138	
+[00:49:47]: 		K: 	version	 V: 	3	
+[00:49:47]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:49:47]: Prefab Swap Selection: grass gekko	
+[00:49:47]: Prefab Swap Selection: regular twigs	
+[00:49:47]: Prefab Swap Selection: regular berries	
+[00:49:47]: Chessy_2	added to	Dig that rock	
+[00:49:47]: Maxwell6	added to	Speak to the king	
+[00:49:47]: Maxwell6	added to	Beeeees!	
+[00:49:47]: Maxwell3	added to	Magic meadow	
+[00:49:47]: New size:	425	default	
+[00:49:47]: Creating story...	
+[00:49:47]: LinkNodesByKeys	
+[00:49:47]: Finding valid start task...	
+[00:49:47]:    ...picked 	Make a pick	
+[00:49:47]: Has start node	Clearing	
+[00:49:47]: Baking map...	425	
+[00:49:47]: [WorldSimActual::GenerateVoronoiMap]
+[00:49:47]: GenerateVoronoiMap [1]:
+[00:49:47]: ...Done.
+[00:49:47]: [AddEmptyNodes]
+[00:49:47]: GenerateVoronoiMap [100]:
+[00:49:49]: ...Done.
+[00:49:49]: [WorldSimActual::GenerateVoronoiMap] complete [success]
+[00:49:49]: [WorldSimActual::ConvertToTileMap]
+[00:49:49]: [ConvertToTileMap]
+[00:49:49]: [WorldSimActual::ConvertToTileMap] complete
+[00:49:49]: [WorldSimActual::SeparateIslands]
+[00:49:49]: [SeparateIslands]
+[00:49:49]: [WorldSimActual::SeparateIslands] complete
+[00:49:49]: Map Baked!	
+[00:49:49]: [WorldSimActual::ForceConnectivity]
+[00:49:49]: [GenerateLandmasses]
+[00:49:49]: [GenerateLandmasses] islands: 1
+[00:49:49]: [MergeConnectedLandmasses] true
+[00:49:49]: [WorldSimActual::ForceConnectivity] complete
+[00:49:49]: [GetWormholesExtra] connected 0 unconnected 1
+[00:49:49]: [GetWormholesExtra] after: connected 1 unconnected 0
+[00:49:49]: [GetWormholesExtra] pushed 0 wormholes
+[00:49:49]: [WorldSimActual::DrawRoads]
+[00:49:49]: [DrawRoads]
+[00:49:49]: [WorldSimActual::DrawRoads] complete
+[00:49:49]: Encoding...	
+[00:49:49]: Encoding... DONE	
+[00:49:49]: Checking Tags	
+[00:49:49]: Populating voronoi...	
+[00:49:49]: Warning! Could not find a spot for Maxwell3 in node Magic meadow:0:Pondopolis	
+[00:49:49]: Warning! Could not find a spot for Maxwell6 in node Beeeees!:3:BeeQueenBee	
+[00:49:49]: disconnected tiles...	0	
+[00:49:49]: Checking Required Prefab multiplayer_portal has at least 1 instances (1 found).	
+[00:49:49]: Checking Required Prefab pigking has at least 1 instances (1 found).	
+[00:49:50]: Done forest map gen!	
+[00:49:50]: Checking map...	
+[00:49:50]: Generation complete	
+[00:49:50]: WorldSim::SimThread::Main() complete
+[00:49:50]: Serializing world: session/7BF250D27C64A5D7/0000000002
+[00:49:50]: Klump load on boot started.	
+[00:49:50]: Klump files loaded: 	0	
+[00:49:50]: 	Unload FE	
+[00:49:50]: 	Unload FE done	
+[00:49:51]: 	LOAD BE	
+[00:50:07]: 	LOAD BE: done	
+[00:50:07]: Begin Session: 7BF250D27C64A5D7
+[00:50:07]: saving to server_temp/server_save	
+[00:50:08]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:50:08]: Loading 12 new character(s)	
+[00:50:08]: Total 12 character(s) loaded	
+[00:50:08]: Loading Nav Grid	
+[00:50:08]: OVERRIDE: setting	summer	to	shortseason	
+[00:50:08]: OVERRIDE: setting	day	to	longday	
+[00:50:08]: OVERRIDE: setting	winter	to	shortseason	
+[00:50:08]: removing onetime override	winter	
+[00:50:08]: removing onetime override	summer	
+[00:50:13]: Reconstructing topology	
+[00:50:13]: 	...Sorting points	
+[00:50:13]: 	...Sorting edges	
+[00:50:13]: 	...Connecting nodes	
+[00:50:13]: 	...Validating connections	
+[00:50:13]: 	...Housekeeping	
+[00:50:13]: 	...Done!	
+[00:50:13]: 1 uploads added to server. From server_temp
+[00:50:13]: Telling Client our new session identifier: 7BF250D27C64A5D7
+[00:50:14]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:50:14]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:50:14]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:50:14]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:50:14]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:50:14]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:50:14]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:50:14]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:50:14]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:50:14]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:50:14]: Attempting to send resume request
+[00:50:14]: Resuming user: session/7BF250D27C64A5D7/A7ICIME6I9H5
+[00:50:14]: ReceiveResumeNotification
+[00:50:14]: Deleting user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000003
+[00:51:34]: [P2P] Received from 72.33.230.186|1 '76561198404125141'
+[00:51:34]: [P2P] Sent to 72.33.230.186|1 '76561198404125141'
+[00:51:34]: New incoming connection 72.33.230.186|1 <7668580561491685300>
+[00:51:34]: Client connected from 72.33.230.186|1 <7668580561491685300>
+[00:51:34]: ValidateGameSessionToken pgs-sing^KU_UrT0UCGI^DontStarveTogether^K57a7ZCZm5ZJ9lnhXuFViae/0MzxiMU+Wa9xQqcWT84= for <7668580561491685300>
+[00:51:36]: Client authenticated: (KU_UrT0UCGI) dwcyr
+[00:51:38]: There is no active event to validate against.
+[00:51:44]: Resuming user: session/7BF250D27C64A5D7/A7JRAT07HH0I
+[00:52:41]: Spawn request: wendy from dwcyr
+[00:52:41]: Skin request: (wendy_none) (body_tweedvest_grey_steel) (hand_wilson_formal) (legs_pants_basic_black_scribble) (feet_maryjanes_white_pure)
+[00:52:41]: Spawning player at: [Fixed] (166.00, 0.00, 298.00)	
+[00:52:41]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000003
+[00:58:19]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000003
+[00:58:19]: Serializing world: session/7BF250D27C64A5D7/0000000003
+[01:00:39]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[01:00:41]: Could not find anim [emote_hands] in bank [FROMNUM]
+[01:00:43]: Could not find anim [emote_pants] in bank [FROMNUM]
+[01:00:48]: Could not find anim [emote_pants] in bank [FROMNUM]
+[01:00:52]: Could not find anim [emote_pants] in bank [FROMNUM]
+[01:00:56]: Could not find anim [emote_hands] in bank [FROMNUM]
+[01:01:04]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[01:01:07]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[01:01:10]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[01:01:13]: Could not find anim [emote_strikepose] in bank [FROMNUM]
+[01:01:17]: Spawn request: wx78 from [Host] Silent-Jim
+[01:01:17]: Skin request: (wx78_none) (body_trimmed_blouse_red_higgsbury) (hand_longgloves_yellow_straw) (legs_skirt_basic_pink_pigman) ()
+[01:01:17]: Spawning player at: [Fixed] (166.00, 0.00, 298.00)	
+[01:01:17]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000004
+[01:01:17]: Deserializing tile data (425 x 425)
+[01:06:19]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000004
+[01:06:19]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000004
+[01:06:20]: Serializing world: session/7BF250D27C64A5D7/0000000004
+[01:14:20]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000005
+[01:14:20]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000005
+[01:14:20]: Serializing world: session/7BF250D27C64A5D7/0000000005
+[01:16:34]: [200] Account Communication Success (6)
+[01:16:34]: Received (KU_J9MSQIOb) from TokenPurpose
+[01:22:20]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000006
+[01:22:20]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000006
+[01:22:20]: Serializing world: session/7BF250D27C64A5D7/0000000006
+[01:25:07]: giving 	130331 - umbrella	
+[01:26:02]: Could not find anim [death] in bank [ghost]
+[01:26:02]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000007
+[01:26:03]: Connection lost to 72.33.230.186|1 <7668580561491685300>
+[01:26:04]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000007
+[01:26:11]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[01:26:16]: [P2P] Connection failed for '76561198404125141'
+[01:26:36]: CURL ERROR: (lobby.klei.ca) SSL read: error:00000000:lib(0):func(0):reason(0), errno 10053
+[01:26:36]: Failed to send server broadcast message
+[01:26:47]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:26:47]: Failed to send server broadcast message
+[01:27:01]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:27:01]: Failed to send server broadcast message
+[01:27:26]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:27:26]: Failed to send server broadcast message
+[01:27:51]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:27:51]: Failed to send server broadcast message
+[01:28:16]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:28:16]: Failed to send server broadcast message
+[01:28:41]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:28:41]: Failed to send server broadcast message
+[01:29:17]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:29:17]: Failed to send server broadcast message
+[01:29:31]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:29:31]: Failed to send server broadcast message
+[01:29:38]: DoRestart:	true	
+[01:29:39]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000007
+[01:29:39]: Serializing world: session/7BF250D27C64A5D7/0000000007
+[01:29:39]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:39]: MOD ERROR: unknown mod: Game mode '' not found in GAME_MODES	
+[01:29:40]: Collecting garbage...
+[01:29:40]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:29:40]: lua_gc took 0.16 seconds
+[01:29:40]: ~ShardLuaProxy()
+[01:29:40]: ~cEventLeaderboardProxy()
+[01:29:40]: ~ItemServerLuaProxy()
+[01:29:40]: ~InventoryLuaProxy()
+[01:29:40]: ~NetworkLuaProxy()
+[01:29:40]: ~SimLuaProxy()
+[01:29:40]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:29:40]: lua_close took 0.25 seconds
+[01:29:40]: ReleaseAll
+[01:29:40]: ReleaseAll Finished
+[01:29:40]: cGame::StartPlaying
+[01:29:40]: LOADING LUA
+[01:29:40]: DoLuaFile scripts/main.lua
+[01:29:40]: DoLuaFile loading buffer scripts/main.lua
+[01:29:40]:   taskgrouplist:	default	Together	
+[01:29:40]:   taskgrouplist:	classic	Classic	
+[01:29:40]:   taskgrouplist:	cave_default	Underground	
+[01:29:40]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[01:29:40]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[01:29:40]: running main.lua
+	
+[01:29:40]: loaded modindex	
+[01:29:40]: ModIndex: Beginning normal load sequence.
+	
+[01:29:41]: LOADING LUA SUCCESS
+[01:29:41]: PlayerDeaths loaded morgue	6155	
+[01:29:41]: PlayerHistory loaded player_history (v2) len:218	
+[01:29:41]: bloom_enabled	false	
+[01:29:41]: loaded saveindex	
+[01:29:41]: OnFilesLoaded()	
+[01:29:41]: OnUpdatePurchaseStateComplete	
+[01:29:41]: Klump load on boot started.	
+[01:29:41]: Klump files loaded: 	0	
+[01:29:41]: 	Unload characters	
+[01:29:41]: 	Unload BE	
+[01:29:41]: 	Unload BE done	
+[01:29:43]: 	Load FE	
+[01:29:48]: 	Load FE: done	
+[01:29:48]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[01:29:48]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[01:29:48]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[01:29:48]: ModIndex: Load sequence finished successfully.	
+[01:29:48]: Reset() returning
+[01:29:48]: Failed to remove server listing
+[01:38:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:11]: Collecting garbage...
+[01:38:11]: lua_gc took 0.02 seconds
+[01:38:11]: ~ShardLuaProxy()
+[01:38:11]: ~cEventLeaderboardProxy()
+[01:38:11]: ~ItemServerLuaProxy()
+[01:38:11]: ~InventoryLuaProxy()
+[01:38:11]: ~NetworkLuaProxy()
+[01:38:11]: ~SimLuaProxy()
+[01:38:11]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:11]: lua_close took 0.04 seconds
+[01:38:12]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:38:12]: saved ping_cache
+[01:38:12]: [Steam] Auth ticket cancelled
+[01:38:12]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:38:12]: anim/boomerang.zip - 1
+[01:38:12]: anim/structure_collapse_fx.zip - 2
+[01:38:12]: anim/gems.zip - 12
+[01:38:12]: anim/statue_ruins_small.zip - 8
+[01:38:12]: anim/statue_ruins.zip - 8
+[01:38:12]: anim/statue_ruins_small_gem.zip - 8
+[01:38:12]: anim/fish01.zip - 1
+[01:38:12]: anim/cook_pot_food.zip - 1
+[01:38:12]: anim/spoiled_food.zip - 1
+[01:38:12]: anim/fish.zip - 1
+[01:38:12]: anim/nightmarefuel.zip - 2
+[01:38:12]: anim/swap_boomerang.zip - 1
+[01:38:12]: anim/carrot.zip - 1
+[01:38:12]: anim/bulb.zip - 1
+[01:38:12]: anim/die.zip - 2
+[01:38:12]: anim/statue_ruins_gem.zip - 8
+[01:38:12]: anim/thulecite.zip - 2
+[01:38:12]: anim/statue_ruins_fx.zip - 2
+[01:38:12]: anim/marble.zip - 2
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:38:12]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:38:12]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[01:38:12]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[01:38:12]: anim/gems.zip:gems--atlas-0.tex - 1
+[01:38:12]: anim/swap_boomerang.zip:swap_boomerang--atlas-0.tex - 1
+[01:38:12]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[01:38:12]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[01:38:12]: anim/cook_pot_food.zip:cook_pot_food--atlas-0.tex - 1
+[01:38:12]: anim/fish.zip:fish--atlas-0.tex - 1
+[01:38:12]: anim/swap_boomerang.zip:swap_boomerang--atlas-1.tex - 1
+[01:38:12]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[01:38:12]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[01:38:12]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[01:38:12]: anim/boomerang.zip:boomerang--atlas-0.tex - 1
+[01:38:12]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[01:38:12]: anim/fish01.zip:fish01--atlas-0.tex - 1
+[01:38:12]: anim/marble.zip:marble--atlas-0.tex - 1
+[01:38:12]: anim/spoiled_food.zip:spoiled_food--atlas-0.tex - 1
+[01:38:12]: anim/die.zip:die--atlas-0.tex - 1
+[01:38:12]: anim/carrot.zip:carrot--atlas-0.tex - 1
+[01:38:12]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[01:38:12]: anim/bulb.zip:bulb--atlas-0.tex - 1
+[01:38:12]: CurlRequestManager::ClientThread::Main() complete
+[01:38:12]: HttpClient2 discarded 0 callbacks.
+[01:38:12]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.1ms!
+[01:38:13]: Shutting down
