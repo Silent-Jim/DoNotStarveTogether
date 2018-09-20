@@ -1,31 +1,20 @@
-[00:02:57]: [Join Announcement] dwcyr
-[00:04:22]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
-[00:05:40]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
-[00:32:23]: [Death Announcement] dwcyr was killed by Crawling Horror. She became a spooky ghost!
-[00:32:34]: [Death Announcement] Silent-Jim was killed by Darkness. They became a spooky ghost!
-[00:33:37]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
-[00:34:40]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
-[00:49:05]: [Death Announcement] dwcyr was killed by Beefalo. She became a spooky ghost!
-[00:49:39]: [Vote Announcement] rollback passed
-[00:49:58]: [Join Announcement] dwcyr
-[00:57:00]: [Death Announcement] Silent-Jim was killed by Hound. They became a spooky ghost!
-[00:57:15]: [Death Announcement] dwcyr was killed by Hound. She became a spooky ghost!
-[00:57:54]: [Vote Announcement] rollback passed
-[00:58:12]: [Join Announcement] dwcyr
-[00:59:58]: [Death Announcement] Silent-Jim was killed by Moose. They became a spooky ghost!
-[01:00:29]: [Resurrect Announcement] Silent-Jim was resurrected by dwcyr.
-[01:01:56]: [Skin Announcement] dwcyr legs_skirt_basic_grey_dark
-[01:02:49]: [Death Announcement] dwcyr was killed by Monster Lasagna. She became a spooky ghost!
-[01:05:08]: [Death Announcement] Silent-Jim was killed by Hound. They became a spooky ghost!
-[01:06:17]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
-[01:14:15]: [Death Announcement] dwcyr was killed by Crawling Horror. She became a spooky ghost!
-[01:15:08]: [Vote Announcement] rollback passed
-[01:15:28]: [Join Announcement] dwcyr
-[01:17:33]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
-[01:23:22]: [Death Announcement] dwcyr was killed by Crawling Horror. She became a spooky ghost!
-[01:24:11]: [Resurrect Announcement] dwcyr was resurrected by Silent-Jim.
-[01:41:17]: [Death Announcement] Silent-Jim was killed by Short Circuit. They became a spooky ghost!
-[01:42:57]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
-[01:55:27]: [Skin Announcement] dwcyr body_cardigan_red_cardinal
-[01:56:02]: [Death Announcement] Silent-Jim was killed by Overheating. They became a spooky ghost!
-[02:02:25]: [Leave Announcement] dwcyr
+[00:04:05]: [Join Announcement] dwcyr
+[00:05:09]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[00:11:05]: [Death Announcement] Silent-Jim was killed by Spider Warrior. They became a spooky ghost!
+[00:12:56]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[00:26:34]: [Death Announcement] Silent-Jim was killed by Spider. They became a spooky ghost!
+[00:27:54]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[00:32:42]: [Death Announcement] dwcyr was killed by Red Hound. She became a spooky ghost!
+[00:33:28]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
+[00:46:54]: [Death Announcement] dwcyr was killed by Bearger. She became a spooky ghost!
+[00:50:20]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
+[01:21:23]: [Death Announcement] Silent-Jim was killed by Treeguard. They became a spooky ghost!
+[01:21:28]: [Resurrect Announcement] Silent-Jim was resurrected by Meat Effigy.
+[01:21:32]: [Death Announcement] dwcyr was killed by Treeguard. She became a spooky ghost!
+[01:21:48]: [Vote Announcement] rollback passed
+[01:22:05]: [Join Announcement] dwcyr
+[01:28:47]: [Death Announcement] Silent-Jim was killed by Treeguard. They became a spooky ghost!
+[01:28:54]: [Resurrect Announcement] Silent-Jim was resurrected by Meat Effigy.
+[01:37:16]: [Leave Announcement] dwcyr
+[01:37:49]: [Death Announcement] Silent-Jim was killed by Darkness. They became a spooky ghost!
+[01:38:07]: [Resurrect Announcement] Silent-Jim was resurrected by Meat Effigy.
