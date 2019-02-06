@@ -1,10 +1,22 @@
-[00:11:09]: [Join Announcement] dwcyr
-[00:48:25]: [Death Announcement] Silent-Jim was killed by Deerclops. They became a spooky ghost!
-[00:49:40]: [Death Announcement] dwcyr was killed by Deerclops. She became a spooky ghost!
-[00:49:54]: [Resurrect Announcement] dwcyr was resurrected by Meat Effigy.
-[00:58:47]: [Resurrect Announcement] Silent-Jim was resurrected by dwcyr.
-[01:03:59]: [Death Announcement] dwcyr was killed by Freezing. She became a spooky ghost!
-[01:12:39]: [Resurrect Announcement] dwcyr was resurrected by Florid Postern.
-[01:14:33]: [Death Announcement] Silent-Jim was killed by Hound. They became a spooky ghost!
-[01:19:52]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
-[01:21:07]: [Leave Announcement] dwcyr
+[00:03:32]: [Join Announcement] 黑雪姬SS
+[00:24:29]: [Death Announcement] 黑雪姬SS was killed by Spider. She became a spooky ghost!
+[00:26:05]: [Resurrect Announcement] 黑雪姬SS was resurrected by Florid Postern.
+[00:33:59]: [Death Announcement] 黑雪姬SS was killed by Deerclops. She became a spooky ghost!
+[00:39:00]: [Death Announcement] Silent-Jim was killed by Freezing. He became a spooky ghost!
+[00:43:51]: [Resurrect Announcement] 黑雪姬SS was resurrected by Florid Postern.
+[00:44:05]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[00:56:57]: [Death Announcement] Silent-Jim was killed by Darkness. He became a spooky ghost!
+[00:57:44]: [Resurrect Announcement] Silent-Jim was resurrected by 黑雪姬SS.
+[00:58:42]: [Death Announcement] 黑雪姬SS was killed by Spider. She became a spooky ghost!
+[00:58:57]: [Death Announcement] Silent-Jim was killed by Pig Man. He became a spooky ghost!
+[00:59:37]: [Resurrect Announcement] 黑雪姬SS was resurrected by Florid Postern.
+[01:00:30]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[01:00:35]: [Death Announcement] 黑雪姬SS was killed by Spider. She became a spooky ghost!
+[01:02:01]: [Leave Announcement] 黑雪姬SS
+[01:06:25]: [Join Announcement] 黑雪姬SS
+[01:10:00]: [Skin Announcement] 黑雪姬SS hand_beltedgloves_red_firehound
+[01:14:54]: [Death Announcement] Silent-Jim was killed by Starvation. They became a spooky ghost!
+[01:17:02]: [Resurrect Announcement] Silent-Jim was resurrected by Florid Postern.
+[01:17:58]: [Death Announcement] Silent-Jim was killed by Darkness. They became a spooky ghost!
+[01:18:18]: [Death Announcement] 黑雪姬SS was killed by Darkness. She became a spooky ghost!
+[01:35:51]: [Leave Announcement] 黑雪姬SS

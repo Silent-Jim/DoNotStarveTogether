@@ -1,0 +1,644 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 53%
+	Available Physical Memory: 3768m/8081m
+	Available Page File: 2539m/9745m
+	Available Virtual Memory: 3945m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 31m
+	Working Set Size: 31m
+	Quota Peak Page Pool Usage: 266k
+	Quota Page Pool Usage: 262k
+	Quota Peak Non Paged Pool Usage:20k
+	Quota Non Paged Pool Usage: 20k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 280490
+[00:00:00]: Current time: Thu Sep 20 21:38:00 2018
+
+[00:00:00]: Don't Starve Together: 280490 WIN32_STEAM
+[00:00:00]: Build Date: 3281
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:01]: Steam AppBuildID: 3001093
+[00:00:01]: ....Done
+[00:00:01]: Fixing DPI
+[00:00:01]: ...Done
+[00:00:01]: THREAD - started 'GAClient' (14680)
+[00:00:01]: CurlRequestManager::ClientThread::Main()
+[00:00:01]: Mounting file system databundles/klump.zip successful.
+[00:00:01]: Mounting file system databundles/shaders.zip successful.
+[00:00:01]: Mounting file system databundles/fonts.zip successful.
+[00:00:01]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:01]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:01]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 32.5ms!
+[00:00:01]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: ProfileIndex:4.35
+[00:00:02]: [Connect] PendingConnection::Reset(true)
+[00:00:02]: Network tick rate: U=15(2), D=0
+[00:00:02]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 22.8ms!
+[00:00:02]: Authorized application D:\SteamLibrary\steamapps\common\Don't Starve Together\bin\dontstarve_steam.exe is enabled in the firewall.
+[00:00:02]: WindowsFirewall - Application already authorized
+[00:00:02]: THREAD - started 'StreamInput' (12020)
+[00:00:02]: loaded ping_cache
+[00:00:02]: Offline user ID: OU_76561198322581862
+[00:00:02]: SteamID: 76561198322581862
+[00:00:02]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 家庭中文版
+    version                   10.0.17134
+    architecture              64 位
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i5-6300HQ CPU @ 2.30GHz
+    manufacturer              GenuineIntel
+    clockSpeed                2304
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    name                      NVIDIA GeForce GTX 960M
+    driverDate                20180307000000.000000-000
+    megsOfRam                 2048
+    refreshRate               0
+    videoModeDescription      
+    driverVersion             23.21.13.8912
+
+[00:00:02]: cGame::InitializeOnMainThread
+[00:00:02]: WindowManager::Initialize
+[00:00:02]: CreateWindow: Requesting 1920,1080 - 5/6/5 - -1/-1/-1 - 0
+[00:00:03]: Failed to communicate with routing cluster 'iad'.
+[00:00:03]: Failed to communicate with routing cluster 'jnb'.
+[00:00:03]: Failed to communicate with routing cluster 'lhr'.
+[00:00:03]: Failed to communicate with routing cluster 'sea'.
+[00:00:04]: Communications with routing cluster 'iad' established.
+[00:00:04]: Communications with routing cluster 'sea' established.
+[00:00:04]: Communications with routing cluster 'lhr' established.
+[00:00:04]: Communications with routing cluster 'jnb' established.
+[00:00:04]: Ping measurement completed
+[00:00:04]: Ping location: tyo=185+18,hkg=188+18,man=216+21,lax=219+21,sgp=271+27/223+18,sea=226+22,mwh=240+24/232+22,maa=330+33/256+18,okc=262+26/258+21,iad=350+35/280+21,fra=383+38/363+21,gru=410+41/393+21
+[00:00:04]: CreateEGLContext: 12 configs found
+[00:00:04]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:04]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:04]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:04]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:04]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:04]:      5: 5/5/5 -  0/16/ 0 - 0
+[00:00:04]:      6: 5/5/5 -  0/24/ 0 - 0
+[00:00:04]:      7: 5/5/5 -  0/24/ 8 - 0
+[00:00:04]:      8: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:04]:      9: 8/8/8 -  8/16/ 0 - 0
+[00:00:04]:     10: 8/8/8 -  8/24/ 0 - 0
+[00:00:04]:     11: 8/8/8 -  8/24/ 8 - 0
+[00:00:05]: WindowManager::SetFullscreen(0, 1920, 1080, 60)
+[00:00:05]: GLInfo
+[00:00:05]: ~~~~~~
+[00:00:05]: THREAD - started 'WindowsInputManager' (1888)
+[00:00:05]: GL_VENDOR: Google Inc.
+[00:00:05]: GL_RENDERER: ANGLE (NVIDIA GeForce GTX 960M)
+[00:00:05]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:05]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:05]: OpenGL extensions (19, 19):
+[00:00:05]: GL_ANGLE_depth_texture
+[00:00:05]: GL_ANGLE_framebuffer_blit
+[00:00:05]: GL_ANGLE_framebuffer_multisample
+[00:00:05]: GL_ANGLE_instanced_arrays
+[00:00:05]: GL_ANGLE_pack_reverse_row_order
+[00:00:05]: GL_ANGLE_texture_compression_dxt3
+[00:00:05]: GL_ANGLE_texture_compression_dxt5
+[00:00:05]: GL_ANGLE_texture_usage
+[00:00:05]: GL_ANGLE_translated_shader_source
+[00:00:05]: GL_EXT_read_format_bgra
+[00:00:05]: GL_EXT_robustness
+[00:00:05]: GL_EXT_texture_compression_dxt1
+[00:00:05]: GL_EXT_texture_format_BGRA8888
+[00:00:05]: GL_EXT_texture_storage
+[00:00:05]: GL_OES_get_program_binary
+[00:00:05]: GL_OES_packed_depth_stencil
+[00:00:05]: GL_OES_rgb8_rgba8
+[00:00:05]: GL_OES_standard_derivatives
+[00:00:05]: GL_OES_texture_npot
+[00:00:05]: GL_MAX_TEXTURE_SIZE = 16384
+[00:00:05]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:05]: GL_MAX_RENDERBUFFER_SIZE = 16384
+[00:00:05]: GL_MAX_VIEWPORT_DIMS = 16384, 16384
+[00:00:05]: GL_MAX_VARYING_VECTORS = 10
+[00:00:05]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:05]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:05]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:05]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:05]: 4 compressed texture formats
+[00:00:05]: texture format 0x83f0
+[00:00:05]: texture format 0x83f1
+[00:00:05]: texture format 0x83f2
+[00:00:05]: texture format 0x83f3
+[00:00:06]: Renderer initialize: Okay
+[00:00:06]: AnimManager initialize: Okay
+[00:00:06]: Buffers initialize: Okay
+[00:00:07]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:07]: GameSpecific initialize: Okay
+[00:00:07]: cGame::StartPlaying
+[00:00:07]: LOADING LUA
+[00:00:07]: DoLuaFile scripts/main.lua
+[00:00:07]: DoLuaFile loading buffer scripts/main.lua
+[00:00:08]:   taskgrouplist:	default	Together	
+[00:00:08]:   taskgrouplist:	classic	Classic	
+[00:00:08]:   taskgrouplist:	cave_default	Underground	
+[00:00:08]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:08]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:08]: running main.lua
+	
+[00:00:08]: loaded modindex	
+[00:00:08]: ModIndex: Beginning normal load sequence.
+	
+[00:00:11]: LOADING LUA SUCCESS
+[00:00:11]: PlayerDeaths loaded morgue	6155	
+[00:00:11]: PlayerHistory loaded player_history (v2) len:219	
+[00:00:11]: bloom_enabled	false	
+[00:00:11]: loaded saveindex	
+[00:00:11]: OnFilesLoaded()	
+[00:00:11]: OnUpdatePurchaseStateComplete	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:14]: 	Load FE	
+[00:00:25]: 	Load FE: done	
+[00:00:25]: THREAD - started 'FilesExistAsyncThread' (14028)
+[00:00:25]: FilesExistAsyncThread started (16739 files)...
+[00:00:25]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[00:00:25]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[00:00:25]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[00:00:25]: ModIndex: Load sequence finished successfully.	
+[00:00:25]: Reset() returning
+[00:00:28]: [Steam] Auth Session Ticket requested...
+[00:00:29]: [Steam] Got Auth Session Ticket
+[00:00:29]: ... FilesExistAsyncThread complete
+[00:00:32]: [200] Account Communication Success (3)
+[00:00:32]: Logging in as KU_J9MSQIOb
+[00:00:34]: saved APP:Klei//DoNotStarveTogether/client_save/pricing_cache
+[00:00:34]: There is no active event to get the status of.
+[00:00:34]: loaded inventory_cache_prod
+[00:00:36]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod
+[00:00:36]: saved APP:Klei//DoNotStarveTogether/client_save/inventory_cache_prod_sig
+[00:00:37]: SimLuaProxy::QueryServer()
+[00:00:43]: Getting top mod details...
+[00:00:43]: Frontend-Unloading mod 'all'.	
+[00:00:44]: GOT top mod details...50
+[00:00:48]: GetGameModeMaxPlayers	endless	nil	
+[00:00:48]: Network tick rate: U=15(2), D=0
+[00:00:48]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:48]: About to start a server with the following settings:
+[00:00:48]:   Dedicated: false
+[00:00:48]:   Online: true
+[00:00:48]:   Passworded: false
+[00:00:48]:   ServerPort: 10999
+[00:00:48]:   SteamAuthPort: 8766
+[00:00:48]:   SteamMasterServerPort: 27016
+[00:00:48]:   ClanID: false
+[00:00:48]:   ClanOnly: false
+[00:00:48]:   ClanAdmin: false
+[00:00:48]:   LanOnly: false
+[00:00:48]:   FriendsOnly: true
+[00:00:48]:   EnableAutosaver: true
+[00:00:48]:   EncodeUserPath: true
+[00:00:48]:   PVP: true
+[00:00:48]:   MaxPlayers: 6
+[00:00:48]:   GameMode: endless
+[00:00:48]:   OverridenDNS: 
+[00:00:48]:   PauseWhenEmpty: true
+[00:00:48]:   IdleTimeout: 1800s
+[00:00:48]:   VoteEnabled: false
+[00:00:48]:   InternetBroadcasting: true
+[00:00:48]:   Intent: cooperative
+[00:00:48]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:48]: Online Server Started on port: 10999
+[00:00:48]: Collecting garbage...
+[00:00:48]: lua_gc took 0.02 seconds
+[00:00:48]: ~ShardLuaProxy()
+[00:00:48]: ~cEventLeaderboardProxy()
+[00:00:48]: ~ItemServerLuaProxy()
+[00:00:48]: ~InventoryLuaProxy()
+[00:00:48]: ~NetworkLuaProxy()
+[00:00:48]: ~SimLuaProxy()
+[00:00:48]: Cancelling LuaQueryCallback handle [6]
+[00:00:48]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[00:00:48]: lua_close took 0.04 seconds
+[00:00:48]: ReleaseAll
+[00:00:48]: ReleaseAll Finished
+[00:00:48]: cGame::StartPlaying
+[00:00:48]: LOADING LUA
+[00:00:48]: DoLuaFile scripts/main.lua
+[00:00:48]: DoLuaFile loading buffer scripts/main.lua
+[00:00:48]:   taskgrouplist:	default	Together	
+[00:00:48]:   taskgrouplist:	classic	Classic	
+[00:00:48]:   taskgrouplist:	cave_default	Underground	
+[00:00:48]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:48]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:48]: running main.lua
+	
+[00:00:48]: loaded modindex	
+[00:00:48]: ModIndex: Beginning normal load sequence.
+	
+[00:00:48]: LOADING LUA SUCCESS
+[00:00:48]: PlayerDeaths loaded morgue	6155	
+[00:00:48]: PlayerHistory loaded player_history (v2) len:219	
+[00:00:48]: bloom_enabled	false	
+[00:00:48]: loaded saveindex	
+[00:00:48]: OnFilesLoaded()	
+[00:00:48]: OnUpdatePurchaseStateComplete	
+[00:00:48]: Loading world: session/7BF250D27C64A5D7/0000000083	
+[00:00:49]: Save file is at version 4.77	
+[00:00:49]: Klump load on boot started.	
+[00:00:49]: Klump files loaded: 	0	
+[00:00:49]: 	Unload FE	
+[00:00:49]: 	Unload FE done	
+[00:00:50]: 	LOAD BE	
+[00:01:07]: 	LOAD BE: done	
+[00:01:07]: Begin Session: 7BF250D27C64A5D7
+[00:01:07]: saving to server_temp/server_save	
+[00:01:07]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:01:07]: Loading 12 new character(s)	
+[00:01:09]: Total 12 character(s) loaded	
+[00:01:09]: Loading Nav Grid	
+[00:01:10]: setting 	summerlength	10	
+[00:01:10]: setting 	isnightmaredawn	false	
+[00:01:10]: setting 	elapseddaysinseason	16	
+[00:01:10]: setting 	isfullmoon	false	
+[00:01:10]: setting 	moisture	5041.357421875	
+[00:01:10]: setting 	springlength	20	
+[00:01:10]: setting 	isnightmarewild	false	
+[00:01:10]: setting 	moonphase	half	
+[00:01:10]: setting 	precipitationrate	0	
+[00:01:10]: setting 	iswet	false	
+[00:01:10]: setting 	isnewmoon	false	
+[00:01:10]: setting 	iswinter	false	
+[00:01:10]: setting 	israining	false	
+[00:01:10]: setting 	isnightmarewarn	false	
+[00:01:10]: setting 	precipitation	none	
+[00:01:10]: setting 	cavephase	day	
+[00:01:10]: setting 	moistureceil	10660.76953125	
+[00:01:10]: setting 	isday	true	
+[00:01:10]: setting 	iscaveday	true	
+[00:01:10]: setting 	season	autumn	
+[00:01:10]: setting 	timeinphase	0.42666588985559	
+[00:01:10]: setting 	temperature	19.999134780994	
+[00:01:10]: setting 	isnightmarecalm	false	
+[00:01:10]: setting 	isnight	false	
+[00:01:10]: setting 	isdusk	false	
+[00:01:10]: setting 	iscavedusk	false	
+[00:01:10]: setting 	isautumn	true	
+[00:01:10]: setting 	issnowing	false	
+[00:01:10]: setting 	iswaxingmoon	false	
+[00:01:10]: setting 	pop	0.44524678778647	
+[00:01:10]: setting 	snowlevel	0	
+[00:01:10]: setting 	issnowcovered	false	
+[00:01:10]: setting 	autumnlength	20	
+[00:01:10]: setting 	phase	day	
+[00:01:10]: setting 	nightmaretime	0	
+[00:01:10]: setting 	winterlength	10	
+[00:01:10]: setting 	isspring	false	
+[00:01:10]: setting 	nightmarephase	none	
+[00:01:10]: setting 	remainingdaysinseason	4	
+[00:01:10]: setting 	cycles	76	
+[00:01:10]: setting 	iscavenight	false	
+[00:01:10]: setting 	nightmaretimeinphase	0	
+[00:01:10]: setting 	wetness	0	
+[00:01:10]: setting 	time	0.29333279927572	
+[00:01:10]: setting 	issummer	false	
+[00:01:10]: OVERRIDE: setting	day	to	longday	
+[00:01:13]: Reconstructing topology	
+[00:01:13]: 	...Sorting points	
+[00:01:13]: 	...Sorting edges	
+[00:01:13]: 	...Connecting nodes	
+[00:01:13]: 	...Validating connections	
+[00:01:13]: 	...Housekeeping	
+[00:01:13]: 	...Done!	
+[00:01:13]: 1 uploads added to server. From server_temp
+[00:01:13]: Telling Client our new session identifier: 7BF250D27C64A5D7
+[00:01:13]: ModIndex: Load sequence finished successfully.	
+[00:01:14]: Reset() returning
+[00:01:15]: Validating portal[2] <-> <nil>[2] (inactive)	
+[00:01:15]: Attempting to send resume request
+[00:01:15]: Resuming user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000083
+[00:01:15]: Spawning player at: [Load] (60.08, 0.00, 218.28)	
+[00:01:15]: ReceiveResumeNotification
+[00:01:15]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:01:15]: Validating portal[5] <-> <nil>[5] (inactive)	
+[00:01:15]: Validating portal[9] <-> <nil>[9] (inactive)	
+[00:01:15]: Validating portal[6] <-> <nil>[6] (inactive)	
+[00:01:15]: Validating portal[7] <-> <nil>[7] (inactive)	
+[00:01:15]: Validating portal[1] <-> <nil>[1] (inactive)	
+[00:01:15]: Validating portal[3] <-> <nil>[3] (inactive)	
+[00:01:15]: Validating portal[8] <-> <nil>[8] (inactive)	
+[00:01:15]: Validating portal[4] <-> <nil>[4] (inactive)	
+[00:01:15]: Deserializing tile data (425 x 425)
+[00:05:16]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_J9MSQIOb","Modified":1537450996.6611917,"ItemID":582649062995397804}
+
+[00:06:12]: giving 	116243 - fishsticks	
+[00:06:20]: giving 	116270 - fishsticks	
+[00:06:20]: giving 	116278 - fishsticks	
+[00:06:38]: giving 	116534 - torch	
+[00:06:38]: giving 	116540 - torch	
+[00:06:57]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000084
+[00:06:57]: Serializing world: session/7BF250D27C64A5D7/0000000084
+[00:08:59]: giving 	117093 - boards	
+[00:08:59]: giving 	117099 - boards	
+[00:09:14]: giving 	117135 - boards	
+[00:09:14]: giving 	117141 - boards	
+[00:10:38]: [P2P] Session request for '76561198404125141'
+[00:10:41]: [P2P] Create session: 83.173.36.66|1 '76561198404125141'
+[00:10:41]: [P2P] Received from 83.173.36.66|1 '76561198404125141'
+[00:10:41]: [P2P] Sent to 83.173.36.66|1 '76561198404125141'
+[00:10:59]: [P2P] Received from 83.173.36.66|1 '76561198404125141'
+[00:10:59]: [P2P] Sent to 83.173.36.66|1 '76561198404125141'
+[00:10:59]: New incoming connection 83.173.36.66|1 <1054263924662477071>
+[00:10:59]: Client connected from 83.173.36.66|1 <1054263924662477071>
+[00:10:59]: ValidateGameSessionToken pgs-sing^KU_UrT0UCGI^DontStarveTogether^GuRFvViL2VOZTdi0GZ6JNx41GejEgloxO47nHIS6IZc= for <1054263924662477071>
+[00:11:02]: Client authenticated: (KU_UrT0UCGI) dwcyr
+[00:11:04]: There is no active event to validate against.
+[00:11:12]: Resuming user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000082
+[00:11:12]: Spawning player at: [Load] (65.26, 0.00, 222.26)	
+[00:12:43]: giving 	117721 - boards	
+[00:12:43]: giving 	117727 - boards	
+[00:12:48]: giving 	117749 - fishsticks	
+[00:12:48]: giving 	117757 - fishsticks	
+[00:14:23]: giving 	118289 - twigs	
+[00:14:23]: giving 	118295 - twigs	
+[00:14:23]: giving 	118297 - twigs	
+[00:14:23]: giving 	118299 - twigs	
+[00:14:23]: giving 	118301 - twigs	
+[00:14:23]: giving 	118303 - twigs	
+[00:14:23]: giving 	118305 - twigs	
+[00:14:23]: giving 	118307 - twigs	
+[00:14:23]: giving 	118309 - twigs	
+[00:14:23]: giving 	118311 - twigs	
+[00:14:23]: giving 	118313 - twigs	
+[00:14:23]: giving 	118315 - twigs	
+[00:14:23]: giving 	118317 - twigs	
+[00:14:23]: giving 	118319 - twigs	
+[00:14:23]: giving 	118321 - twigs	
+[00:14:23]: giving 	118323 - twigs	
+[00:14:23]: giving 	118325 - twigs	
+[00:14:23]: giving 	118327 - twigs	
+[00:14:23]: giving 	118329 - twigs	
+[00:14:23]: giving 	118331 - twigs	
+[00:14:57]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000085
+[00:14:57]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000085
+[00:14:57]: Serializing world: session/7BF250D27C64A5D7/0000000085
+[00:17:06]: giving 	119488 - boomerang	
+[00:17:06]: giving 	119494 - boomerang	
+[00:20:11]: giving 	119890 - fishsticks	
+[00:20:11]: giving 	119898 - fishsticks	
+[00:22:57]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000086
+[00:22:57]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000086
+[00:22:58]: Serializing world: session/7BF250D27C64A5D7/0000000086
+[00:26:22]: CURL ERROR: (metric.kleientertainment.com) Failed to connect to metric.kleientertainment.com port 443: Timed out
+[00:27:18]: giving 	121198 - rope	
+[00:27:18]: giving 	121204 - rope	
+[00:27:21]: giving 	121222 - rope	
+[00:27:21]: giving 	121224 - rope	
+[00:28:10]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[00:30:03]: [200] Account Communication Success (6)
+[00:30:03]: Received (KU_J9MSQIOb) from TokenPurpose
+[00:30:58]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000087
+[00:30:58]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000087
+[00:30:59]: Serializing world: session/7BF250D27C64A5D7/0000000087
+[00:32:16]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:32:16]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:33:30]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:33:30]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:34:03]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:36:55]: giving 	125730 - fishsticks	
+[00:36:55]: giving 	125738 - fishsticks	
+[00:38:45]: giving 	126291 - log	
+[00:38:45]: giving 	126297 - log	
+[00:38:59]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000088
+[00:38:59]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000088
+[00:38:59]: Serializing world: session/7BF250D27C64A5D7/0000000088
+[00:40:37]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:41:07]: giving 	126706 - fishsticks	
+[00:41:07]: giving 	126714 - fishsticks	
+[00:41:26]: FMOD Error: Can't play event dontstarve/creatures/pengull/splash: An Event failed to be retrieved, most likely due to 'just fail' being specified as the max playbacks behavior. 
+[00:43:09]: giving 	127130 - fishsticks	
+[00:43:09]: giving 	127138 - fishsticks	
+[00:46:59]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000089
+[00:46:59]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000089
+[00:46:59]: Serializing world: session/7BF250D27C64A5D7/0000000089
+[00:48:27]: Could not find anim [death] in bank [ghost]
+[00:48:27]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000090
+[00:48:27]: SAVING Morgue	40	
+[00:49:42]: Could not find anim [death] in bank [ghost]
+[00:49:42]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000090
+[00:49:56]: Could not find anim [idle_loop] in bank [ghost]
+[00:50:01]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000090
+[00:55:00]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000090
+[00:55:00]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000090
+[00:55:01]: Serializing world: session/7BF250D27C64A5D7/0000000090
+[00:58:49]: Could not find anim [idle_loop] in bank [ghost]
+[00:58:52]: Could not find anim [transform] in bank [wilson]
+[00:58:53]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000091
+[00:59:34]: giving 	132807 - fishsticks	
+[00:59:34]: giving 	132815 - fishsticks	
+[01:00:04]: [200] Account Communication Success (6)
+[01:00:04]: Received (KU_J9MSQIOb) from TokenPurpose
+[01:03:01]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000091
+[01:03:01]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000091
+[01:03:01]: Serializing world: session/7BF250D27C64A5D7/0000000091
+[01:03:36]: giving 	134920 - fishsticks	
+[01:03:36]: giving 	134928 - fishsticks	
+[01:04:01]: Could not find anim [death] in bank [ghost]
+[01:04:01]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000092
+[01:04:10]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[01:04:51]: giving 	135254 - fishsticks	
+[01:04:51]: giving 	135262 - fishsticks	
+[01:05:05]: giving 	135292 - fishsticks	
+[01:05:05]: giving 	135300 - fishsticks	
+[01:05:57]: giving 	135419 - fishsticks	
+[01:05:57]: giving 	135427 - fishsticks	
+[01:06:31]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[01:11:01]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000092
+[01:11:01]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000092
+[01:11:02]: Serializing world: session/7BF250D27C64A5D7/0000000092
+[01:12:41]: Could not find anim [idle_loop] in bank [ghost]
+[01:12:44]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000093
+[01:14:35]: Could not find anim [death] in bank [ghost]
+[01:14:35]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000093
+[01:14:35]: SAVING Morgue	39	
+[01:14:44]: CURL ERROR: (metric.kleientertainment.com) Operation too slow. Less than 5 bytes/sec transferred the last 5 seconds
+[01:19:02]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000093
+[01:19:02]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000093
+[01:19:03]: Serializing world: session/7BF250D27C64A5D7/0000000093
+[01:19:54]: Could not find anim [idle_loop] in bank [ghost]
+[01:19:57]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000094
+[01:21:09]: Connection lost to 83.173.36.66|1 <1054263924662477071>
+[01:21:09]: Serializing user: session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000094
+[01:21:19]: DoRestart:	true	
+[01:21:20]: Serializing user: session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000094
+[01:21:21]: Serializing world: session/7BF250D27C64A5D7/0000000094
+[01:21:21]: Truncating to snapshot #94...
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000078
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000079
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000080
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000081
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000082
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000083
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000084
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000085
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000086
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000087
+[01:21:21]:  - session/7BF250D27C64A5D7/0000000088
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000088
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000087
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000086
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000085
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000084
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000083
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000082
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000081
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000080
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000079
+[01:21:21]:  - session/7BF250D27C64A5D7/A7ICIME6I9H5/0000000078
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000088
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000087
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000086
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000085
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000082
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000081
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000080
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000079
+[01:21:21]:  - session/7BF250D27C64A5D7/A7JRAT07HH0I/0000000078
+[01:21:21]:    31 file(s) removed
+[01:21:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:21:21]: Collecting garbage...
+[01:21:21]: lua_gc took 0.17 seconds
+[01:21:21]: ~ShardLuaProxy()
+[01:21:21]: ~cEventLeaderboardProxy()
+[01:21:21]: ~ItemServerLuaProxy()
+[01:21:21]: ~InventoryLuaProxy()
+[01:21:21]: ~NetworkLuaProxy()
+[01:21:21]: ~SimLuaProxy()
+[01:21:21]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:21:21]: lua_close took 0.38 seconds
+[01:21:22]: ReleaseAll
+[01:21:22]: ReleaseAll Finished
+[01:21:22]: cGame::StartPlaying
+[01:21:22]: LOADING LUA
+[01:21:22]: DoLuaFile scripts/main.lua
+[01:21:22]: DoLuaFile loading buffer scripts/main.lua
+[01:21:22]:   taskgrouplist:	default	Together	
+[01:21:22]:   taskgrouplist:	classic	Classic	
+[01:21:22]:   taskgrouplist:	cave_default	Underground	
+[01:21:22]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[01:21:22]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[01:21:22]: running main.lua
+	
+[01:21:22]: loaded modindex	
+[01:21:22]: ModIndex: Beginning normal load sequence.
+	
+[01:21:22]: LOADING LUA SUCCESS
+[01:21:22]: PlayerDeaths loaded morgue	6155	
+[01:21:22]: PlayerHistory loaded player_history (v2) len:219	
+[01:21:22]: bloom_enabled	false	
+[01:21:22]: loaded saveindex	
+[01:21:22]: OnFilesLoaded()	
+[01:21:22]: OnUpdatePurchaseStateComplete	
+[01:21:22]: Klump load on boot started.	
+[01:21:22]: Klump files loaded: 	0	
+[01:21:22]: 	Unload characters	
+[01:21:22]: 	Unload BE	
+[01:21:22]: 	Unload BE done	
+[01:21:22]: Could not unload undefined prefab (torch_shadow)
+[01:21:24]: 	Load FE	
+[01:21:24]: 	Load FE: done	
+[01:21:24]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/blocklist.txt (Failure)
+[01:21:24]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/client_save/adminlist.txt (Failure)
+[01:21:24]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/client_save/whitelist.txt (Failure)
+[01:21:24]: ModIndex: Load sequence finished successfully.	
+[01:21:24]: Reset() returning
+[01:21:24]: [P2P] Connection failed for '76561198404125141'
+[01:21:32]: CURL ERROR: (lobby.klei.ca) Could not resolve host: lobby.klei.ca
+[01:21:32]: Failed to remove server listing
+[01:23:40]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:23:40]: Collecting garbage...
+[01:23:40]: lua_gc took 0.02 seconds
+[01:23:40]: ~ShardLuaProxy()
+[01:23:40]: ~cEventLeaderboardProxy()
+[01:23:40]: ~ItemServerLuaProxy()
+[01:23:40]: ~InventoryLuaProxy()
+[01:23:40]: ~NetworkLuaProxy()
+[01:23:40]: ~SimLuaProxy()
+[01:23:40]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:23:40]: lua_close took 0.03 seconds
+[01:23:40]: ModWorkshop::CancelDownloads clearing all unfinished downloads
+[01:23:40]: [Steam] Auth ticket cancelled
+[01:23:40]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:23:40]: anim/rope.zip - 1
+[01:23:40]: anim/structure_collapse_fx.zip - 1
+[01:23:40]: anim/gems.zip - 6
+[01:23:40]: anim/statue_ruins_small.zip - 4
+[01:23:40]: anim/twigs.zip - 1
+[01:23:40]: anim/statue_ruins.zip - 4
+[01:23:40]: anim/statue_ruins_small_gem.zip - 4
+[01:23:40]: anim/cook_pot_food.zip - 1
+[01:23:40]: anim/boards.zip - 1
+[01:23:40]: anim/nightmarefuel.zip - 1
+[01:23:40]: anim/die.zip - 1
+[01:23:40]: anim/statue_ruins_gem.zip - 4
+[01:23:40]: anim/thulecite.zip - 1
+[01:23:40]: anim/statue_ruins_fx.zip - 1
+[01:23:40]: anim/marble.zip - 1
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]: Orphaned unnamed resource. This resource must have used Add( resource ) to insert itself into the manager. 
+[01:23:40]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[01:23:40]: anim/statue_ruins_small_gem.zip:statue_ruins_small_gem--atlas-0.tex - 1
+[01:23:40]: anim/thulecite.zip:thulecite--atlas-0.tex - 1
+[01:23:40]: anim/gems.zip:gems--atlas-0.tex - 1
+[01:23:40]: anim/rope.zip:rope--atlas-0.tex - 1
+[01:23:40]: anim/statue_ruins.zip:statue_ruins--atlas-0.tex - 1
+[01:23:40]: anim/structure_collapse_fx.zip:structure_collapse_fx--atlas-0.tex - 1
+[01:23:40]: anim/cook_pot_food.zip:cook_pot_food--atlas-0.tex - 1
+[01:23:40]: anim/boards.zip:boards--atlas-0.tex - 1
+[01:23:40]: anim/nightmarefuel.zip:nightmarefuel--atlas-0.tex - 1
+[01:23:40]: anim/statue_ruins_fx.zip:statue_ruins_fx--atlas-0.tex - 1
+[01:23:40]: anim/statue_ruins.zip:statue_ruins--atlas-1.tex - 1
+[01:23:40]: anim/statue_ruins_gem.zip:statue_ruins_gem--atlas-0.tex - 1
+[01:23:40]: anim/marble.zip:marble--atlas-0.tex - 1
+[01:23:40]: anim/twigs.zip:twigs--atlas-0.tex - 1
+[01:23:40]: anim/die.zip:die--atlas-0.tex - 1
+[01:23:40]: anim/statue_ruins_small.zip:statue_ruins_small--atlas-0.tex - 1
+[01:23:40]: CurlRequestManager::ClientThread::Main() complete
+[01:23:40]: HttpClient2 discarded 0 callbacks.
+[01:23:40]: steamnetworkingsockets_lowlevel.cpp (88) : Assertion Failed: SteamDatagramTransportLock held for 251.6ms!
+[01:23:40]: Shutting down
